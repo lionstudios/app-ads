@@ -2687,3 +2687,5 @@ video.unrulymedia.com, 7823643795310613975, RESELLER
 VideoHeroes.tv, 212504, RESELLER
 xandr.com, 13709, RESELLER
 yahoo.com, 59781, RESELLER
+improvedigital.com,2050,RESELLER
+mintegral.com,10043,RESELLER,0aeed750c80d6423
