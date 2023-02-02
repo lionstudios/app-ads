@@ -2744,3 +2744,51 @@ vidoomy.com, 1576959, RESELLER
 inmobi.com, 216d7d6a2d3a440bb1d74388fb58ca15, RESELLER, 83e75a7ae333ca9d
 triplelift.com, 13010, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 3226865594, RESELLER
+aceex.io, 898, RESELLER, b1cf3c874d5c6682
+triplelift.com, 12210-EB, RESELLER, 6c33edb13117fd86
+pubmatic.com,162458, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24992, RESELLER, 0bfd66d529a55807
+adwmg.com,100436, RESELLER, c9688a22012618e7
+openx.com, 557745905, RESELLER, 6a698e2ec38604c6
+amxrtb.com, 105199440, RESELLER
+App-stock.com, 315417,RESELLER
+triplelift.com, 12240, RESELLER, 6c33edb13117fd86
+betweendigital.com, 44180, RESELLER
+smartadserver.com, 4467, RESELLER
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
+mman.kr, 32213, RESELLER
+bold-win.com, 59, RESELLER, 71746737d0bab951
+google.com, pub-2325473850364670, RESELLER, f08c47fec0942fa0
+Zeta.com, 626, RESELLER
+sharethrough.com, ZqrIAHsE, RESELLER, d53b998a7bd4ecd2
+openx.com, 540857594, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 6694405583287859332, RESELLER
+Bridgeupp.com, 14725, RESELLER
+triplelift.com, 13010, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 1466670590438161688, RESELLER
+instreamatic.com, 132, RESELLER
+gitberry.com, 355100012, RESELLER
+video.unrulymedia.com, 649652654350370180, RESELLER
+pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
+ignitemediatech.com, pub_61112, reseller
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+keenkale.com,43421,RESELLER
+inmobi.com,a980ed60d7ea4bbabb6173d2cd9d4db9,RESELLER,83e75a7ae333ca9d
+improvedigital.com, 2093, RESELLER
+conversantmedia.com, 41896, RESELLER 03113cd04947736d
+e-planning.net,9522026ef023606d,RESELLER,c1ba615865ed87b2
+freewheel.tv, 1137745, RESELLER
+madopi.media, 63515, RESELLER
+yahoo.com, 58986, RESELLER
+Triplelift.com,13042,RESELLER, 6c33edb13117fd86
+improvedigital.com,2176,RESELLER
+improvedigital.com,2175,RESELLER
+vidoomy.com, 6858194, RESELLER
+instal.com, 5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644, RESELLER
+pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3
+conversantmedia.com,100269,RESELLER,03113cd04947736d
+pubmatic.com,158565,RESELLER,5d62403b186f2ace
+appads.in, 105886, RESELLER
+sovrn.com, 303849, RESELLER, fafdf38b16bf6b2b
