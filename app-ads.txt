@@ -2879,3 +2879,45 @@ video.unrulymedia.com, 2979066401945419350, RESELLER
 openx.com, 540543195, RESELLER, 6a698e2ec38604c6
 facebook.com, 389491858256561, RESELLER, c3e20eee3f780d68
 facebook.com, 389491858256561, DIRECT, c3e20eee3f780d6
+152media.info, 152M337, RESELLER
+adview.com, 53218885, RESELLER, 1b2cc038a11ea319
+smartadserver.com, 3964, RESELLER
+loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
+contextweb.com, 562900, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 24926, RESELLER, 0bfd66d529a55807
+geofy.ai, 8851126, RESELLER
+improvedigital.com, 2164, RESELLER
+triplelift.com, 13203, RESELLER, 6c33edb13117fd86
+sharethrough.com, pLL9cLon, RESELLER, d53b998a7bd4ecd2
+loopme.com, 11446, RESELLER, 6c8d5f95897a5a3b
+contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 2536267, RESELLER
+inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
+xandr.com, 14344, RESELLER
+pubmatic.com, 162518, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162520, RESELLER, 5d62403b186f2ace
+triplelift.com, 12210, RESELLER, 6c33edb13117fd86
+smartadserver.com, 4232, RESELLER
+inmobi.com, 7f1234e2a50f4aaaac5a4bf2f0b62ac1, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23844, RESELLER
+smartadserver.com, 4578, RESELLER, 060d053dcf45cbf3
+consumable.com, 2001467, RESELLER, aefcd3d2f45b5070
+opera.com, pub7507776842240, RESELLER, 55a0c5fd61378de3
+smartadserver.com, 4279, RESELLER
+opera.com, pub5479493704320, RESELLER, 55a0c5fd61378de3
+sonobi.com, c5e9ff8391, RESELLER, d1a215d9eb5aee9e
+consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
+loopme.com, 11566, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 162519, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4490, RESELLER, 060d053dcf45cbf3
+Contextweb.com, 562885, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562867, RESELLER, 89ff185a4c4e857c
+openx.com, 540556847, RESELLER, 6a698e2ec38604c6
+contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 8167205979129043832, RESELLER
+freewheel.tv, 1585652, RESELLER
+freewheel.tv, 1585681, RESELLER
+smartclip.net, 14275, RESELLER
+criteo.com, B-057702, RESELLER, 9fac4a4a87c2a44f
+freewheel.tv, 1138513, RESELLER
