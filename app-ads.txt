@@ -3288,3 +3288,5 @@ appnexus.com, 9538, RESELLER
 mediafuse.com, 693, RESELLER
 rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2997140015, RESELLER
+facebook.com, 1209872443301708, RESELLER, c3e20eee3f780d68
+facebook.com, 1209872443301708, DIRECT, c3e20eee3f780d6
