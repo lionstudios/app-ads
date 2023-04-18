@@ -3302,3 +3302,6 @@ freewheel.tv, 1570342, RESELLER
 loopme.com, 11583, RESELLER, 6c8d5f95897a5a3b
 adform.com, 3006, RESELLER, 9f5210a2f0999e32
 loopme.com, 11520, RESELLER, 6c8d5f95897a5a3b
+applovin.com, 28e95f3cc3690c4d6aa3c227ba36ed4e, DIRECT
+facebook.com, 874273753368966, RESELLER, c3e20eee3f780d68
+facebook.com, 874273753368966, DIRECT, c3e20eee3f780d6
