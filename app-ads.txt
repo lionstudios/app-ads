@@ -3286,8 +3286,6 @@ appnexus.com, 9538, RESELLER
 mediafuse.com, 693, RESELLER
 rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2997140015, RESELLER
-facebook.com, 1209872443301708, RESELLER, c3e20eee3f780d68
-facebook.com, 1209872443301708, DIRECT, c3e20eee3f780d6
 xapads.com, 99275, RESELLER
 blis.com, 137, RESELLER, 61453ae19a4b73f4
 emxdgt.com, 2014, RESELLER, 1e1d41537f7cad7f
@@ -3303,7 +3301,5 @@ loopme.com, 11583, RESELLER, 6c8d5f95897a5a3b
 adform.com, 3006, RESELLER, 9f5210a2f0999e32
 loopme.com, 11520, RESELLER, 6c8d5f95897a5a3b
 applovin.com, 28e95f3cc3690c4d6aa3c227ba36ed4e, DIRECT
-facebook.com, 874273753368966, RESELLER, c3e20eee3f780d68
-facebook.com, 874273753368966, DIRECT, c3e20eee3f780d6
 applovin.com, f28d2fa77b43938ec629aed57d43ac2e, DIRECT
 applovin.com, 605342e7563ab0a516b213614b38890, DIRECT
