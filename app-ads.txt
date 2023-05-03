@@ -661,14 +661,14 @@ lkqd.net, 654, RESELLER, 59c49fa9598a0117
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
 adreact.com, 72038, DIRECT
 appnexus.com, 12039, DIRECT
-improvedigital.com, 1641, RESELLER
-inmobi.com, 6a76f99043a3468595f83b0d3d0281ac, RESELLER, 83e75a7ae333ca9d
 google.com, pub-7104543801500968, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23358, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23360, RESELLER, 0bfd66d529a55807
 sovrn.com, 325729, DIRECT, fafdf38b16bf6b2b
 lijit.com, 325729, DIRECT, fafdf38b16bf6b2b
 lijit.com, 325729-eb, DIRECT, fafdf38b16bf6b2b
+improvedigital.com, 1641, RESELLER
+inmobi.com, 6a76f99043a3468595f83b0d3d0281ac, RESELLER, 83e75a7ae333ca9d
 gadsme.com, cknaboke1197000vaxppfblaht, DIRECT
 gadsme.com, cknaboke1197000vaxppfblaht, RESELLER
 smartadserver.com, 3837, DIRECT
@@ -3306,3 +3306,32 @@ applovin.com, 605342e7563ab0a516b213614b38890, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CUD06Z68, RESELLER
 applovin.com, 0229e4691043c0e356ff11157000b2df, DIRECT
+aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
+appnexus.com, 9538, RESELLER
+appnexus.com, 6849, RESELLER
+appnexus.com, 806, RESELLER
+appnexus.com, 13783, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 196129, RESELLER
+freewheel.tv, 196145, RESELLER
+freewheel.tv, 211121, RESELLER
+freewheel.tv, 211129, RESELLER
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2114, RESELLER
+indexexchange.com, 182257, RESELLER
+mediafuse.com, 693, RESELLER
+pubmatic.com, 160552, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159234, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159277, RESELLER, 
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
+venatus.com, 643e7622c1cdad6358880907, RESELLER
+video.unrulymedia.com, 2997140015, RESELLER
+video.unrulymedia.com, 115440576, RESELLER
