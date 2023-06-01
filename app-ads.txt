@@ -4122,3 +4122,36 @@ vidoomy.com, 4930225, RESELLER
 loopme.com, 11626, RESELLER, 6c8d5f95897a5a3b
 grd.ortb.net, 5437268, RESELLER
 Contextweb.com ,563032,DIRECT,89ff185a4c4e857c
+chartboost.com, 5dc49a81c4d80c0a35b695de, DIRECT
+bidmachine.io, 98, RESELLER
+openx.com, 540338069, RESELLER, 6a698e2ec38604c6
+pubnative.net, 1007485, RESELLER, d641df8625486a7b
+sonobi.com, 442a7bfdb0, RESELLER, d1a215d9eb5aee9e
+uis.mobfox.com, 82593, RESELLER, 5529a3d1f59865be
+pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
+e-planning.net, bce51a8513581788, RESELLER, c1ba615865ed87b2
+bidmachine.io, 187, RESELLER
+bidmachine.io, 195, RESELLER
+themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
+yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
+opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
+yahoo.com, 59875, RESELLER, e1a5b5b6e3255540
+yahoo.com, 57872, RESELLER, e1a5b5b6e3255540
+yeahmobi.com, 5135302, RESELLER
+mintegral.com, 10005, RESELLER
+advlion.com, 3083, RESELLER
+advlion.com, 3054, RESELLER
+advlion.com, 3108, RESELLER
+markappmedia.site, 322972, RESELLER
+yahoo.com, 60013, RESELLER, e1a5b5b6e3255540
+freewheel.tv, 1568906, RESELLER
+freewheel.tv, 1568907, RESELLER
+adform.com, 2904, RESELLER
+orangeclickmedia.com, hgu2t0onqs874x95, RESELLER
+video.unrulymedia.com, 1605779867, RESELLER
+themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
+outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
+media.net, 8cu1cp7pm, RESELLER
+pubwise.io, 52324626, RESELLER, c327c91a93a7cdd3
