@@ -4803,3 +4803,144 @@ openx.com,545705254,RESELLER,6a698e2ec38604c6
 algorix.co,60086,RESELLER,5b394c12fea27a1d
 conversantmedia.com,100432,RESELLER,03113cd04947736d
 fyber.com,209032,DIRECT
+applovin.com, 160766afae58e176876a35139a12682f, DIRECT
+applovin.com, 0ae5e10bd055c2295c7d459f81dcba5e, DIRECT
+applovin.com, ba5d398554c5f9633cf4fec1fc29dc0f, DIRECT
+applovin.com, e5bd532b13527bcd1bbacb4661835296, DIRECT
+applovin.com, f05dcd84a24a4717af39644b498e5480, DIRECT
+applovin.com, a01be90f1a5e934f38a94ed90bc3bc9b, DIRECT
+applovin.com, 34cd1285658cf00141549065232d5814, DIRECT
+applovin.com, 19ba88c833372258dd544f7c221000b2, DIRECT
+applovin.com, b474039a429648aa5bd669221844e718, DIRECT
+applovin.com, 2670fc49f5bab1dc10694e1f1d2dd6ee, DIRECT
+applovin.com, 06e291f083df81675e0b3b1a16216c9f, DIRECT
+applovin.com, 094d2f41c2ac8a26295bfd1687583a15, DIRECT
+applovin.com, 55b329b49556127c02b9c68ef0d534ea, DIRECT
+applovin.com, d08067d791b2e3f13fc98fd1f6c60410, DIRECT
+applovin.com, 0ee7d7b0da331befb42f820189d73196, DIRECT
+applovin.com, 9205e89cb0933e6835d1cd96fccab991, DIRECT
+applovin.com, 382511f00266ecd5dd476420eeab3758, DIRECT
+applovin.com, 0394dfa57dcda25d53f60e49b2a38c8d, DIRECT
+applovin.com, aaae3c9eb0d51ac93b180b52e29f0323, DIRECT
+applovin.com, dcca77ebf7a7743acaa3d45d872fb546, DIRECT
+applovin.com, 10365f47af6b0c9aabe51a57bd9fef74, DIRECT
+applovin.com, c9f070fca7b765a9f700479ceaa24330, DIRECT
+applovin.com, f1a492e253f750fd736c90623ce2407d, DIRECT
+applovin.com, 4965fcba38d043918c4034ddca358a36, DIRECT
+applovin.com, 65229cf11068a2eb5cd2bb38ecdc251e, DIRECT
+applovin.com, 4afba439e7c4d21b4ab212f5f320ed45, DIRECT
+applovin.com, f036a3e608a0451ba03f7f10f6520159, DIRECT
+applovin.com, c3f4c49176fe2259ad8b809c1854a52e, DIRECT
+applovin.com, 9537d5d89b6ff95550d78900da5c5344, DIRECT
+applovin.com, ac07b7968ba7ccfac32ff8188684cf28, DIRECT
+applovin.com, 1863d5d46b78f0ca1793d59d249f576a, DIRECT
+applovin.com, 2a75e4397b67da08fe92ba563695a54b, DIRECT
+applovin.com, aa8ddecf122507166a0afa4de0ef563e, DIRECT
+applovin.com, 9691e2606146ad189dd3accd7e3ded0d, DIRECT
+applovin.com, 77071962d41006f3cf476acfa33d96ae, DIRECT
+applovin.com, f25ada61ab4a7c7dc679305014d1617d, DIRECT
+applovin.com, 9986d71e7b07889704009a6c50bc3a99, DIRECT
+applovin.com, cc4e4f80e213e2b77e4e94470d795ff8, DIRECT
+applovin.com, d11575a46236efcf736a657d12756df0, DIRECT
+applovin.com, b035122c2db3a2fdcad0d0cb3b43ea21, DIRECT
+applovin.com, e699d17e97c684ac9b43dba88aff6e10, DIRECT
+applovin.com, 1d6722e6b6a72712a7a097b5aebbcdb5, DIRECT
+applovin.com, a6e79d8a7eefc27bb92aa6c99c3c64c3, DIRECT
+applovin.com, ba1177994784e2b067b13d50b86b21c0, DIRECT
+applovin.com, 50f4433677211293e1c1169c366d4033, DIRECT
+applovin.com, 384bbfb26cc439d65a97ee45eee14bba, DIRECT
+applovin.com, 3ddacdd41e07794e2c72dbb844a54c8e, DIRECT
+applovin.com, 15bd279d922ec9e369b4576e1b7ca17d, DIRECT
+applovin.com, 0ed866687f1eed63750f639f4f79c2e5, DIRECT
+applovin.com, 7aff74a91f0cf577d1d463e494ac37e2, DIRECT
+applovin.com, df09a3e27b6f756adb5394a8f731a9f1, DIRECT
+applovin.com, bb0bd2a04eb9dc714aef7127732c29ae, DIRECT
+applovin.com, 0080d0bd54abdd927c1c8c0d182b707b, DIRECT
+applovin.com, fd00c0d7b8f2599debdd8a87850e2a09, DIRECT
+applovin.com, b33cd5e342984257c1b6cde3c4676663, DIRECT
+applovin.com, 28fc1e6a9844a1d05048f9cac948ab0b, DIRECT
+applovin.com, d1b710061d048bef0d7c46167c06eac6, DIRECT
+applovin.com, e6c675716b853985f69a70b86f213882, DIRECT
+applovin.com, f3838068325cee93e719c6671bf77dc6, DIRECT
+applovin.com, 31ad7247ae12f13f2e6ca7cdbe5bdac7, DIRECT
+applovin.com, 82636297468f887e5710e6e85a540a09, DIRECT
+applovin.com, f5a09a410e17af3b94099142c7cb48aa, DIRECT
+applovin.com, 45a23750d173f7c98b9e51760420c213, DIRECT
+applovin.com, 9a06a2a1535da5771d803a7efef29455, DIRECT
+applovin.com, b946bed1f36e10db7f24d96436147e57, DIRECT
+applovin.com, 34e6dec290ef23acd31c87292e6ae87d, DIRECT
+applovin.com, 9f405251f6a3b17832908a520f1a0ead, DIRECT
+applovin.com, 85e0120db929e42d0c170edf29ad9e22, DIRECT
+applovin.com, 938849707846032f5050d751328a573b, DIRECT
+applovin.com, 6fa85d474b56ff5d1396a9d5549365b8, DIRECT
+applovin.com, 6cb7a54e1e6c78c3878cc80545ae95e9, DIRECT
+applovin.com, ebc75de1f51eeaf2d7801b9c9e5dc6d5, DIRECT
+applovin.com, 86e48e76627f784f5199c7493f3442b8, DIRECT
+applovin.com, 8ee1e1675a5042af7df4766bed2c9908, DIRECT
+applovin.com, d12f44bcaa5ce0cef25c6e4e053719f5, DIRECT
+applovin.com, 0162a7cd9976cc4c7b6f6f4f2574c845, DIRECT
+applovin.com, 8cc05db9344ebdc26370e4e96114adb5, DIRECT
+applovin.com, def4b4f90224850fdcd9b462ad983789, DIRECT
+applovin.com, 0ab77dd720cba6e4763b0c0ee9332a3a, DIRECT
+applovin.com, 9631e06c1358beadb89efc38cc5a7b9c, DIRECT
+applovin.com, 789ec39ed9df8f04cecec0700248bc21, DIRECT
+applovin.com, f6615322a9a4e4bc2d453bb15371b6ad, DIRECT
+applovin.com, 4a31b59cc48e803e4b9baa58dbaa07c9, DIRECT
+applovin.com, 77cbd1c9b847342414a4ff72ab9b2a6a, DIRECT
+applovin.com, db3e86b5c645f4d8c8ccd88282904492, DIRECT
+applovin.com, 422e8dbd75272da8086b931e19a19d07, DIRECT
+applovin.com, 29cade813159a34641d581e3b4a68b42, DIRECT
+applovin.com, 2017d1df72054893e1b94d0af08ec63a, DIRECT
+applovin.com, e92a52c62e72d046803ccc00b02f2f19, DIRECT
+applovin.com, 8553baa1d6ef8370905356e6c20ccda3, DIRECT
+applovin.com, 510e50395a4b1afb0c5ec67fca9429de, DIRECT
+applovin.com, c20cc54f8fc499bb01839085c5e28059, DIRECT
+applovin.com, 4f49ab3ed7ba3254f7235e303602e95a, DIRECT
+applovin.com, 6094c15af26e70a8cb30a7dcd7dde8a1, DIRECT
+applovin.com, 74191c41903cccc7d0fda1e7a62a8b8d, DIRECT
+applovin.com, c1fed4a648e51207f39128c68f804471, DIRECT
+applovin.com, 8bc84a39794a140fb62b4fefef769bd2, DIRECT
+applovin.com, bd88083564a027d14ea1002496c36995, DIRECT
+applovin.com, 48e75ec6448d8fbec89dfd36ee303d51, DIRECT
+applovin.com, 3d502a3b169543fbe8ba9c6785d020ca, DIRECT
+applovin.com, 134a49b07bbc87c34d427a85f655858f, DIRECT
+applovin.com, dd2ca97a772c01964b8c99fbfb6294c2, DIRECT
+applovin.com, e6173d7e797e1f80dd4a8bca977574d8, DIRECT
+applovin.com, fd3da73264ab5e937f40125bf34f2397, DIRECT
+applovin.com, 986e72951b5a24b72121066f01eb02af, DIRECT
+applovin.com, 3d6a4a9c8761b90070db96e2128520d4, DIRECT
+applovin.com, 51f84bdbaafb4822c5376744e9e9b911, DIRECT
+applovin.com, 021fe0fb47aaea25f480efa4dfc48590, DIRECT
+applovin.com, 3a04281bcd7a2a4f26a5e4d6890c6292, DIRECT
+applovin.com, a423ac9209244dd512aedfa67f376f7d, DIRECT
+applovin.com, 151bb335b287270961a3c3eb8b67317f, DIRECT
+applovin.com, 07bf31636e0fa971539157799cd92712, DIRECT
+applovin.com, 5378a18878b69e4020b0a37150d183c5, DIRECT
+applovin.com, 31a92bd0cc9a8872df65283ea5de36a9, DIRECT
+applovin.com, 81068e47ea1c91cb60bb6bb9f083a6f1, DIRECT
+applovin.com, bc48aab2d2c051b47b0e2a5803846754, DIRECT
+applovin.com, 15bff22290adf43ced20620dc5369666, DIRECT
+applovin.com, 2d96073abb18e0c807b750f5ecbade4a, DIRECT
+applovin.com, ebfb9c2f46b65e4ccb8b79a3c9e0233d, DIRECT
+applovin.com, bdfe506d4ce5fd958c2745124959d86a, DIRECT
+applovin.com, 57c2b102e8bc4b28696dbbae1cb29ee4, DIRECT
+applovin.com, a0d0591da6654307a993cdd1497e2efe, DIRECT
+webeyemob.com, 70174, RESELLER
+start.io, smt, RESELLER
+mintegral.com, 19423, DIRECT, 0aeed750c80d6423
+videoheroes.tv, 212581, RESELLER, 064bc410192443d8
+sonobi.com, c58cf86903, RESELLER, d1a215d9eb5aee9e
+improvedigital.com, 1805, RESELLER
+inmobi.com, b1ccfa7be71d4ce08525a698dceb9c29, DIRECT, 83e75a7ae333ca9d
+inmobi.com, 8db4f84a164540b887b178eb1a6e1721, RESELLER, 83e75a7ae333ca9d
+inmobi.com, a980ed60d7ea4bbabb6173d2cd9d4db9, RESELLER, 83e75a7ae333ca9d
+opera.com, pub5925993551616, RESELLER, 55a0c5fd61378de3
+thebrave.io, 1234568, RESELLER, c25b2154543746ac
+showheroes.com, 6019, RESELLER
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
+gamaigroup.com, 320201, RESELLER
+appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
+beapup.com, 544587, RESELLER
+fyber.com, INSERT PUBLISHER ID, DIRECT
+VideoHeroes.tv,212504,RESELLER,064bc410192443d8
