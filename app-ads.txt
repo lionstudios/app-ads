@@ -4944,3 +4944,34 @@ appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
 beapup.com, 544587, RESELLER
 fyber.com, INSERT PUBLISHER ID, DIRECT
 VideoHeroes.tv,212504,RESELLER,064bc410192443d8
+lkqd.net, 1220, DIRECT, 59c49fa9598a0117
+pubnative.net, 1008506, DIRECT, d641df8625486a7b
+aceex.io, 1187, RESELLER, b1cf3c874d5c6682
+cazhype.com, efe937780e95574250dabe07151bdc2332794, RESELLER
+ushareit.com, LC5a6e860b2be2187f, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 960362640, RESELLER
+xandr.com, 15059, RESELLER, f5ab79cb980f11d1 
+video.unrulymedia.com, 498216989, RESELLER
+adform.com, 3037, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 163316, RESELLER,5d62403b186f2ace
+smartadserver.com, 4673, RESELLER, 060d053dcf45cbf3
+criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
+rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
+xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 148803, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 241535530, RESELLER
+pubmatic.com, 163507, RESELLER, 5d62403b186f2ace
+opera.com, pub8890008555904, RESELLER, 55a0c5fd61378de3
+video.unrulymedia.com, 1200765299, RESELLER
+freewheel.tv, 1581157, RESELLER
+video.unrulymedia.com, 501193200, RESELLER
+improvedigital.com, 2268, RESELLER
+improvedigital.com, 2266, RESELLER
+conversantmedia.com, 100527, RESELLER, 03113cd04947736d
+adform.com, 3014, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 163307, RESELLER, 5d62403b186f2ace
+opera.com, pub8049291171776, RESELLER, 55a0c5fd61378de3
+Pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
+Sonobi.com, c0562c5814, RESELLER, d1a215d9eb5aee9e
+Inmobi.com, 83a77fcfe06340f6928a82727394b41e, RESELLER, 83e75a7ae333ca9d
