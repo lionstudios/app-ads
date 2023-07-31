@@ -5100,3 +5100,4 @@ Appnexus.com, 9914, RESELLER
 krushmedia.com, AJxF6R402a9M6CaTvK, RESELLER
 rubiconproject.com, 25688, RESELLER, 0bfd66d529a55807
 xandr.com, 13291, RESELLER
+waardex.com, 103777, RESELLER
