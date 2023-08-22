@@ -5399,3 +5399,4 @@ media.net, 8CUN37DCC, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 appads.in, 107606, RESELLER
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4694-OB, RESELLER, 060d053dcf45cbf3
