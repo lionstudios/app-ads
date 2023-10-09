@@ -6510,3 +6510,16 @@ pubmatic.com,163758,RESELLER,5d62403b186f2ace
 axonix.com,59089,DIRECT,bc385f2b4a87b721
 xandr.com,15426,RESELLER,f5ab79cb980f11d1
 gumgum.com,15908,RESELLER,ffdef49475d318a9
+bidmachine.io,147,RESELLER
+opera.com,pub7275292332480,RESELLER,55a0c5fd61378de3
+bidmachine.io,189,RESELLER
+freewheel.tv,1600180,RESELLER
+Adform.com,2742,RESELLER
+Pubmatic.com,162882,RESELLER,5d62403b186f2ace
+bidmachine.io,190,RESELLER
+freewheel.tv,1600214,RESELLER
+sonobi.com,a85c5f6129,RESELLER,d1a215d9eb5aee9e
+display.io,173162,RESELLER
+bidmachine.io,148,RESELLER
+Pubmatic.com,163319,RESELLER,5d62403b186f2ace
+video.unrulymedia.com,524101463,RESELLER,29bc7d05d309e1bc
