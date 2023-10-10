@@ -6539,3 +6539,14 @@ smartadserver.com, 4247, RESELLER, 060d053dcf45cbf3 #CAD
 smartadserver.com, 4228, RESELLER, 060d053dcf45cbf3 #USD_CTV
 rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 appnexus.com, 11470, RESELLER
+betweendigital.com, 43916, RESELLER
+omnifytv.com, pqsCoRfJvb9DYRGE, RESELLER
+myfeature.tv, WUK6VDvHBmA6l3PToPJK, RESELLER
+bematterfull.com, 898409509, RESELLER
+tropicsgames.com, a75395d9-5944-4f00-9282-d26f3756d83e, RESELLER
+video.unrulymedia.com, 837864616, RESELLER
+brightcom.com, 23120, RESELLER
+themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
+media.net, 8CU1PSQOS, RESELLER
+lijit.com, 473316, RESELLER, fafdf38b16bf6b2b
+onetag.com, 52a5b73146950c0, RESELLER
