@@ -6526,3 +6526,16 @@ video.unrulymedia.com,524101463,RESELLER,29bc7d05d309e1bc
 pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
 Xapads.com, 163819, RESELLER
 facebook.com, 1988427884761107, RESELLER, c3e20eee3f780d69
+Ogury.com, 7f57918a7ac1bd270aa1123f5f13a303, DIRECT
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3 #Global
+smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3 #EUR
+smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3 #USD
+smartadserver.com, 4073, RESELLER, 060d053dcf45cbf3 #BRL
+smartadserver.com, 4074, RESELLER, 060d053dcf45cbf3 #MXN
+smartadserver.com, 4247, RESELLER, 060d053dcf45cbf3 #CAD
+smartadserver.com, 4228, RESELLER, 060d053dcf45cbf3 #USD_CTV
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+appnexus.com, 11470, RESELLER
