@@ -6576,3 +6576,9 @@ rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
 spotxchange.com, 211833, RESELLER, 7842df1d2fe2db34
 adswizz.com, targetspot, RESELLER
 spotx.tv, 211833, RESELLER, 7842df1d2fe2db34
+mobilefuse.com, 4254, DIRECT, 71e88b065d69c021
+lijit.com, 452742-eb, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11438, RESELLER, 6c8d5f95897a5a3b
+lunamedia.io, 32405915-c6d7-44d3-9326-17ce1fb85943, RESELLER, 524ecb396915caaf
+lijit.com, 452742, RESELLER, fafdf38b16bf6b2b
+opera.com, pub6682403483584, RESELLER, 55a0c5fd61378de3
