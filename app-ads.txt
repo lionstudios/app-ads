@@ -6734,3 +6734,23 @@ webeyemob.com, 70121, RESELLER
 loopme.com, 11633, RESELLER, 6c8d5f95897a5a3b
 lenovoads.com, 4000, RESELLER
 smartyads.com, 100016, RESELLER, fd2bde0ff2e62c5d
+thunder-monetize.com, 3588802677, RESELLER
+playdigo.com, 1951, RESELLER
+connectad.io, 386, RESELLER, 85ac85a30c93b3e5
+conversantmedia.com, 100611, RESELLER, 03113cd04947736d
+dauup.com, 34102, RESELLER
+auxoads.com, 90207, RESELLER
+auxoads.com, 90208, RESELLER
+auxoads.com, 90209, RESELLER
+auxoads.com, 90210, RESELLER
+auxoads.com, 90211, RESELLER
+pubmatic.com, 162252, RESELLER, 5d62403b186f2ace
+lijit.com, 472844, RESELLER, fafdf38b16bf6b2b
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
+152media.info, 152M318, RESELLER
+themediagrid.com, X6PKB1, RESELLER, 35d5010d7789b49d
+e-planning.net, b0cbb506ba8381aa, RESELLER, c1ba615865ed87b2
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 2099898025, RESELLER, 6f752381ad5ec0e5
+media.net, 8CUCB0790, RESELLER
+appnexus.com, 7556, RESELLER, f5ab79cb980f11d1
