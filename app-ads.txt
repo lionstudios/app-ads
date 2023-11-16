@@ -7587,3 +7587,4 @@ video.unrulymedia.com, 431376138, RESELLER
 xandr.com, 15507, RESELLER, f5ab79cb980f11d1
 connekt.ai, 1930854428, RESELLER
 axonix.com, 59101, RESELLER, bc385f2b4a87b721
+pubmatic.com, 164143, DIRECT, 5d62403b186f2ace
