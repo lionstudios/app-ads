@@ -7713,3 +7713,8 @@ admanmedia.com, 2019, RESELLER
 thebrave.io, 1234678, RESELLER, c25b2154543746ac
 smaato.com, 1100055971, DIRECT, 07bcf65f187117b4
 smaato.com, 1100055972, DIRECT, 07bcf65f187117b4
+rubiconproject.com, 26086, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164018, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164019, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 949394431, RESELLER
+Contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
