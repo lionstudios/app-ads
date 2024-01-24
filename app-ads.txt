@@ -7734,3 +7734,9 @@ risecodes.com, 64e346c45ab8e700016b45cd, RESELLER
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 xandr.com, 14082, RESELLER
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+risecodes.com, 64e346c45ab8e700016b45cd, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+xandr.com, 14082, RESELLER
