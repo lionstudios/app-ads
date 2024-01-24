@@ -7718,3 +7718,15 @@ pubmatic.com, 164018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164019, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 949394431, RESELLER
 Contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+mediafuse.com, 720 , RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
+sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
+lijit.com, 253233, RESELLER, fafdf38b16bf6b2b
+thebrave.io, 1234696, RESELLER, c25b2154543746ac
+sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
+freewheel.tv, 1601349, RESELLER
+freewheel.tv, 1601388, RESELLER
+onetag.com, 82bad7d17eccf7c, RESELLER
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+smartadserver.com, 4343, RESELLER
