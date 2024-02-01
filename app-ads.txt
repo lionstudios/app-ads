@@ -7469,17 +7469,13 @@ tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
 adswizz.com, audiomob, DIRECT
 appnexus.com, 10490, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 2174, DIRECT
-appnexus.com, 13356, DIRECT, f5ab79cb980f11d1
 adtonos.com, PUB915935208, DIRECT
 rubiconproject.com, 22494, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807
 tritondigital.com, 162223, DIRECT, 19b4454d0b87b58b
 rubiconproject.com, 24774, DIRECT, 0bfd66d529a55807
-adtonos.com, PUB2175209085, DIRECT
 yieldmo.com, 3078438591206989879, RESELLER
 adswizz.com, adtonos, RESELLER
 thirdpresence.com, 747186, DIRECT
-adtonos.com, PUB505345121, DIRECT
 video.unrulymedia.com, 666216500618530556, RESELLER
 rubiconproject.com, 24776, DIRECT, 0bfd66d529a55807
 contextweb.com, 562906, RESELLER, 89ff185a4c4e857c
@@ -7492,15 +7488,11 @@ appnexus.com, 1577, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 16418, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 9753, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
-spotxchange.com, 211833, RESELLER, 7842df1d2fe2db34
 adswizz.com, targetspot, RESELLER
-spotx.tv, 211833, RESELLER, 7842df1d2fe2db34
 appnexus.com, 7763, RESELLER, f5ab79cb980f11d1
 smartyads.com, 10, RESELLER, fd2bde0ff2e62c5d
 contextweb.com, 562918, RESELLER, 89ff185a4c4e857c
 appnexus.com, 14256, RESELLER, f5ab79cb980f11d1
-google.com, pub-8622186303703569, DIRECT, f08c47fec0942fa0
-adwmg.com, 100813, DIRECT, c9688a22012618e7
 uis.mobfox.com, 1858, RESELLER, 5529a3d1f59865be
 appnexus.com, 7491, RESELLER, f5ab79cb980f11d1
 adform.com, 2423, RESELLER, 9f5210a2f0999e32
@@ -7743,3 +7735,16 @@ xandr.com, 14082, RESELLER
 chocolateplatform.com,19559,reseller
 contextweb.com,563114,reseller,89ff185a4c4e857c
 lijit.com,488437,reseller,fafdf38b16bf6b2b
+smartadserver.com, 4856, RESELLER, 060d053dcf45cbf3
+adtonos.com, PUB952327291, RESELLER
+amplifier.audio, PUB952327291, DIRECT
+rubiconproject.com, 25906, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25908, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
+appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
+sharethrough.com, jXk2TGan,  RESELLER, d53b998a7bd4ecd2
+9dotsmedia.com, 1351, DIRECT, 45ff185b4c4e857d
+tritondigital.com, 43693, DIRECT, 19b4454d0b87b58b
+eskimi.com, 2020000536, DIRECT 
+video.unrulymedia.com, 498216989, RESELLER 
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
