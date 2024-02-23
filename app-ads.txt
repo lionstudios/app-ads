@@ -7736,3 +7736,4 @@ pubmatic.com, 164043, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 inmobi.com, 74510130b7d34af880f3a38049d5f914, RESELLER, 83e75a7ae333ca9d
 rhebus.works, 9019999555, RESELLER
+pubnative.net, 1009148, DIRECT, d641df8625486a7b
