@@ -7850,3 +7850,10 @@ rtb-mix.com, 198711, RESELLER
 iion.io, 10148, RESELLER, 013a29748465dc57
 appnexus.com, 14538, RESELLER, f5ab79cb980f11d1
 adtonos.com, PUB572385971, RESELLER
+onetag.com, 88ba85bc478a32b, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+appnexus.com, 13099, RESELLER
