@@ -7857,3 +7857,12 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
 appnexus.com, 13099, RESELLER
+target.my.com, 13033031, reseller
+adiiix.com, 1b5c093d, reseller
+webeyemob.com, 80067, reseller
+ignitemediatech.com, pub_11119, reseller
+admixer.co.kr, 2041, reseller
+triplelift.com, 14127, reseller, 6c33edb13117fd86
+triplelift.com, 14127-eb, reseller, 6c33edb13117fd86
+sharethrough.com, 5eq7zf1q, reseller, d53b998a7bd4ecd2
+admedia.com, 1573, reseller
