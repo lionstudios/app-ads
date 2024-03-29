@@ -7866,3 +7866,9 @@ triplelift.com, 14127, reseller, 6c33edb13117fd86
 triplelift.com, 14127-eb, reseller, 6c33edb13117fd86
 sharethrough.com, 5eq7zf1q, reseller, d53b998a7bd4ecd2
 admedia.com, 1573, reseller
+opera.com,pub10832153240576,DIRECT,55a0c5fd61378de3
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
+improvedigital.com, 2276, RESELLER
+onetag.com,82e44d118b79600,DIRECT
+conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+vidoomy.com, 4930225, RESELLER
