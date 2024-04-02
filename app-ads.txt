@@ -7872,3 +7872,55 @@ improvedigital.com, 2276, RESELLER
 onetag.com,82e44d118b79600,DIRECT
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 vidoomy.com, 4930225, RESELLER
+adsolut.in, 16436, reseller
+ampliffy.com, amp00556, direct
+aps.amazon.com, 8ad2aae8-3f86-43e5-ba8d-47d42f48959d, direct
+brid.tv, 283, direct
+freewheel.tv, 1601851, reseller
+freewheel.tv, 1601860, reseller
+google.com, pub-0796790890307838, reseller, f08c47fec0942fa0
+google.com, pub-1714061154748628, reseller, f08c47fec0942fa0
+google.com, pub-2676898002317977, reseller, f08c47fec0942fa0
+google.com, pub-2730263451308801, reseller, f08c47fec0942fa0
+google.com, pub-3977122154505186, reseller, f08c47fec0942fa0
+google.com, pub-3990748024667386, direct, f08c47fec0942fa0
+google.com, pub-4090704406626496, reseller, f08c47fec0942fa0
+google.com, pub-5200956238394958, reseller, f08c47fec0942fa0
+google.com, pub-6716225838534735, reseller, f08c47fec0942fa0
+google.com, pub-7279729872265667, reseller, f08c47fec0942fa0
+google.com, pub-8856559311549217, reseller, f08c47fec0942fa0
+google.com, pub-8863191426564274, reseller, f08c47fec0942fa0
+google.com, pub-9422585382673566, reseller, f08c47fec0942fa0
+improvedigital.com, 1725, reseller
+incrementx.com, 50006, reseller, 8728b7e97e589da4
+inmobi.com, e05e4461515245fc8ca91510ed240025, reseller, 83e75a7ae333ca9d
+jio.com, 4891, direct
+lijit.com, 381276-eb, reseller, fafdf38b16bf6b2b
+openx.com, 545708355, reseller, 6a698e2ec38604c6
+openx.com, 558218698, reseller, 6a698e2ec38604c6
+openx.com, 559803239, reseller, 6a698e2ec38604c6
+playstream.media, 1566, reseller
+publiffy.com, pub00556, direct
+pubmatic.com, 159855, reseller, 5d62403b186f2ace
+pubmatic.com, 161094, reseller, 5d62403b186f2ace
+pubmatic.com, 162319, direct, 5d62403b186f2ace
+pubmatic.com, 162736, reseller, 5d62403b186f2ace
+pubmatic.com, 163277, reseller, 5d62403b186f2ace
+relict.media, 22637491760, direct
+rubiconproject.com, 24246, reseller, 0bfd66d529a55807
+smaato.com, 1100054930, reseller, 07bcf65f187117b4
+smartadserver.com, 4417-ob, reseller, 060d053dcf45cbf3
+smartadserver.com, 4734, reseller, 060d053dcf45cbf3
+smartadserver.com, 4734-ob, reseller, 060d053dcf45cbf3
+streamlyn.com, bsrvptr20157, direct
+target-video.com, 283, direct
+telaria.com, glfg0-ps0si, reseller, 1a4e959a1b50034a
+thegermanemedia.com, 407, direct, 6716225838534735
+tremorhub.com, glfg0-ps0si, reseller, 1a4e959a1b50034a
+unibots.in, ubc-0339-1, direct
+video.unrulymedia.com, 642221422, reseller
+videoffy.com, vid00556, direct
+vidgyor.com, 20081, direct
+vidgyor.com, 30000, direct
+whitemediasolutions, 1920, direct
+xapads.com, 191394, direct
