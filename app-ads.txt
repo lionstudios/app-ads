@@ -7963,3 +7963,5 @@ themediagrid.com, HGN8TK, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 827123801, RESELLER
 video.unrulymedia.com, 436487936, RESELLER
 smartadserver.com, 2491, RESELLER
+pubnative.net, 1009277, DIRECT, d641df8625486a7b
+video.unrulymedia.com, 266978658, RESELLER
