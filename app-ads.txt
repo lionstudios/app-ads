@@ -8029,3 +8029,36 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 freewheel.tv, 1599301, RESELLER
 freewheel.tv, 1599304, RESELLER
+auxoads.com, 327-b5873, RESELLER, 20e30b2ae1f670f2
+e-planning.net, eace14e47f550cbe, RESELLER, c1ba615865ed87b2
+advangelists.com, bf64e615cf0445312de926a59990fa58, RESELLER, 60d26397ec060f98
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+aniview.com, 656734f0ab76c394a701ccd7, RESELLER, 78b21b97965ec3f8
+freewheel.tv, 1605876, RESELLER
+smartadserver.com, 4871, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 436487936, RESELLER
+improvedigital.com, 1479, RESELLER
+inmobi.com, 74510130b7d34af880f3a38049d5f914, RESELLER, 83e75a7ae333ca9d
+datawrkz.com, 2358, RESELLER
+Pubmatic.com, 164373, RESELLER, 5d62403b186f2ace
+152media.info, 152M68, RESELLER
+omgstudios.com, 17072301, RESELLER, f08c47fec0942fa0
+xandr.com, 13291, RESELLER
+Media.net, 8CU7DTPFI, RESELLER
+pubmatic.com, 163283, RESELLER, 5d62403b186f2ace
+sharethrough.com, sWxCFjI8, RESELLER, d53b998a7bd4ecd2
+video.unrulymedia.com, 4268206200, RESELLER
+rhythmone.com, 4268206200, RESELLER, a670c89d4a324e47
+indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161816, RESELLER, 5d62403b186f2ace
+openx.com, 540556847, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4637, RESELLER, 060d053dcf45cbf3
+152media.info, 152M767, RESELLER
+datacygnal.io, 201197, RESELLER
+pubmatic.com, 157530, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23048, RESELLER, 0bfd66d529a55807
+openx.com, 560716205, RESELLER, 6a698e2ec38604c6
+appnexus.com, 8610, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 2491, RESELLER
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
