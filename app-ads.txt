@@ -8067,3 +8067,42 @@ rubiconproject.com, 23104, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 10653, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 18516, DIRECT, 0bfd66d529a55807
+adelement.com, 36502, reseller
+adsbea.com,17,reseller
+axonix.com,59089,reseller,bc385f2b4a87b721
+balloonlabs.ai, 9173515035, reseller
+betweendigital.com, 45190, reseller
+betweendigital.com, 45329, reseller
+bidease.com, bidease_seller_20, reseller
+bigo.sg,109,reseller
+blueseasx.com, 232670, reseller, 7998eac5087f6110
+ignitemediatech.com, pub_61323, reseller
+inmobi.com, 6cc71dd159864641a03ce0c8792d801f, reseller,83e75a7ae333ca9d
+lijit.com, 224984, reseller, fafdf38b16bf6b2b
+loopme.com, 11694, reseller, 6c8d5f95897a5a3b
+lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, reseller, 524ecb396915caaf
+opera.com,pub7025947716544,reseller,55a0c5fd61378de3
+outbrain.com, 00da04a8a0fc0b2ff14e5f3b6780f5a9d8, reseller
+pangleglobal.com, 82832, reseller, 7998eac5087f6110
+playdigo.com, 1993, reseller
+pubmatic.com, 159087, reseller, 5d62403b186f2ace
+pubmatic.com, 162588,reseller, 5d62403b186f2ace
+pubmatic.com, 164532, reseller, 5d62403b186f2ace
+pubmatic.com, 164601, reseller, 5d62403b186f2ace
+pubmatic.com, 164602, reseller, 5d62403b186f2ace
+pubmatic.com,161267,reseller,5d62403b186f2ace
+pubmatic.com,163420,reseller,5d62403b186f2ace
+pubnative.net,1006856, reseller, d641df8625486a7b
+pubnative.net,1007007, reseller, d641df8625486a7b
+risecodes.com, 6486c6155b231000010244b0, reseller
+rubiconproject.com, 22134, reseller, 0bfd66d529a55807
+rubiconproject.com, 23674, reseller, 0bfd66d529a55807
+rubiconproject.com, 26292, reseller, 0bfd66d529a55807
+thunder-monetize.com, 3692155372, reseller
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, reseller
+ushareit.com, lc7dc692567a127a57,reseller
+webeyemob.com, 80070, reseller
+xandr.com, 14374, reseller, f5ab79cb980f11d1
+xandr.com, 15840, reseller
+yandex.com, 98384845, reseller, 7998eac5087f6110
+zmaticoo.com, 5135347, reseller
