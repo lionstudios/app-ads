@@ -8582,3 +8582,9 @@ Ogury.com, 6a67ff65d2292274271a0ae3858d7916, DIRECT
 adingenious.com, 70791, RESELLER
 bidmachine.io,328,DIRECT
 pubnative.net, 1009028, RESELLER, d641df8625486a7b
+onetag.com, 88ba85bc478a32b, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
