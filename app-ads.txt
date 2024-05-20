@@ -8588,3 +8588,15 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
+lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
+lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
+alpecs.com, 5621272678, RESELLER
+pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807b
+sharethrough.com, 5JOVm6UM, DIRECT, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4342, RESELLER
+video.unrulymedia.com, 266978658, RESELLER
