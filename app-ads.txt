@@ -8600,3 +8600,4 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER
 video.unrulymedia.com, 266978658, RESELLER
+pubmatic.com, 161839, DIRECT, 5d62403b186f2
