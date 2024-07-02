@@ -8690,3 +8690,25 @@ freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
 video.unrulymedia.com, 533898005, RESELLER
 dauup.com, 34141, RESELLER
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+admanmedia.com, 936, RESELLER
+improvedigital.com, 2193, RESELLER
+freewheel.tv, 1585652, RESELLER
+appnexus.com, 13697, RESELLER, f5ab79cb980f11d1
+Pubmatic.com, 158753, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162528, RESELLER, 5d62403b186f2ace
+appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 2291, RESELLER
+video.unrulymedia.com, 7321012356371921076, RESELLER
+yeahmobi.com, 115423, RESELLER
+rhythmone.com, 1738113756, RESELLER, a670c89d4a324e47
+Appnexus.com, 14416, RESELLER
+adingenious.com, 70780, RESELLER
+inmobi.com, bf7c7c73ec1146939dccd08e9954c73d, RESELLER, 83e75a7ae333ca9d
+onomagic.com, 204511, RESELLER
+inmobi.com, 500d35021d3d4a5688da7f11fed0ed13, RESELLER, 83e75a7ae333ca9d
+conversantmedia.com, 41996, RESELLER, 03113cd04947736d
+iqzone.com, IQ288, RESELLER
+152media.info, 152M68, RESELLER
+openx.com, 541015801, RESELLER, 6a698e2ec38604c6
