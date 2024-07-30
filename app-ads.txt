@@ -9005,3 +9005,4 @@ video.unrulymedia.com, 2464975885, RESELLER
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
 bigo.sg, 128, DIRECT
+applovin.com, 1b0de65d8f927933952102ac26a9d490, DIRECT
