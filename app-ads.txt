@@ -9006,3 +9006,15 @@ pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
 bigo.sg, 128, DIRECT
 applovin.com, 1b0de65d8f927933952102ac26a9d490, DIRECT
+applovin.com, a6a3e06dbc513f10f333bf5331d8e9d0, DIRECT
+applovin.com, a5f9b853ed0da2445474e671d52d3c40, DIRECT
+applovin.com, c3a3e05c4a609ce0f75034c5fa459b50, DIRECT
+applovin.com, a067e4a43e7bbbd6b475107d1b2de534, DIRECT
+applovin.com, 5b8b6c44ae88d6bb0bf2658c8267b76d, DIRECT
+applovin.com, eab55e623ed527175433f66e9ac9feb0, DIRECT
+applovin.com, 9d3c447301e9974cb30669595d4942cb, DIRECT
+applovin.com, 58a712006c5227a779c9a11babf39888, DIRECT
+applovin.com, 84110e9d5b39e4f858adb618c7b8c001, DIRECT
+applovin.com, 0bafdb9237fe4b982810e26e9dcd5d60, DIRECT
+applovin.com, 21680495e24cf3a21243c1253fe7a133, DIRECT
+lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
