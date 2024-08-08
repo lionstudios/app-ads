@@ -9037,3 +9037,46 @@ tritondigital.com, 44733, RESELLER, 19b4454d0b87b58b
 video.unrulymedia.com, 666216500618530556, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER
 tritondigital.com, 40513, DIRECT, 19b4454d0b87b58b
+33across.com, 0010b00002e4mrraa2, direct, bbea06d9c4d2853c
+adform.com, 3027, reseller
+admedia.com, 1643, reseller
+adswizz.com, 172, reseller
+adswizz.com, 22, direct
+adswizz.com, 22, reseller
+adswizz.com, 318, direct
+adswizz.com, 318, reseller
+adswizz.com, 580, reseller
+adswizz.com, 584, reseller
+adswizz.com, 80, direct
+adswizz.com, 80, reseller
+adswizz.com, radiocomercial, reseller
+adswizz.com, rmsi, direct
+adswizz.com, rmsi, reseller
+appnexus.com, 10040, reseller, f5ab79cb980f11d1
+appnexus.com, 14416, reseller, f5ab79cb980f11d1
+appnexus.com, 14808, reseller, f5ab79cb980f11d1
+appnexus.com, 9284, direct, f5ab79cb980f11d1
+google.com, pub-7269238500499280, reseller, f08c47fec0942fa0
+google.com, pub-8426670000503017, direct, f08c47fec0942fa0
+indexexchange.com, 194648, reseller, 50b1c356f2c5c8fc
+iqzone.com, iq291, direct
+katzdigital.com, 318, direct
+katzdigital.com, 318, reseller
+katzdigital.com, 80, direct
+katzdigital.com, 80, reseller
+loopme.com, 11468, reseller, 6c8d5f95897a5a3b
+nextmillennium.io, 16824, direct, 65bd090fa4a1e3d6
+openx.com, 540224251, direct, 6a698e2ec38604c6
+openx.com, 557083110, reseller, 6a698e2ec38604c6
+playdigo.com, 2028, direct, 92011346d63d3c30
+pubmatic.com, 157577, direct, 5d62403b186f2ace
+pubmatic.com, 158810, reseller, 5d62403b186f2ace
+pubmatic.com, 161831, reseller, 5d62403b186f2ace
+pubmatic.com, 164798, reseller, 5d62403b186f2ace
+rubiconproject.com, 17888, reseller, 0bfd66d529a55807
+sharethrough.com, tz1ahfv8, reseller, d53b998a7bd4ecd2
+smaato.com, 1100055901, reseller, 07bcf65f187117b4
+smartadserver.com, 2491, reseller,
+smilewanted.com, 5194, reseller
+themediagrid.com, rabcq1, direct, 35d5010d7789b49d
+videoheroes.tv, 212622, reseller, 064bc410192443d8
