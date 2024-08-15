@@ -9123,3 +9123,4 @@ conversantmedia.com, 100275, RESELLER, 03113cd04947736d
 video.unrulymedia.com, 228607987, RESELLER
 freewheel.tv, 1605427, RESELLER
 rubiconproject.com, 26504, RESELLER, 0bfd66d529a55807
+thebrave.io, 1234587, RESELLER, c25b2154543746ac
