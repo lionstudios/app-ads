@@ -9256,3 +9256,22 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7,RESELLER,83e75a7ae333ca9d
 loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
 bigo.sg, 128, DIRECT
+audiomob.com, 6f594e0166f6f5922e3ecc9c6eb638d, direct, 4b0cec5c9072d7d7
+ad.plus, 23199801732, direct
+advangelists.com, 57b9c5d42a8fe216162345a05b6e6afb, reseller, 60d26397ec060f98
+affinity.com, 965, reseller
+appnexus.com, 2007, reseller, f5ab79cb980f11d1
+boldscreen.com, 46220, direct
+boldscreen.com, 765167, direct
+connatix.com, 1742365173855029, direct, 2af98acdee0e81ed
+contextweb.com, 563115, reseller, 89ff185a4c4e857c
+contextweb.com, 563169, reseller, 89ff185a4c4e857c
+e-planning.net, 608359bb987625b2, direct, c1ba615865ed87b2
+google.com, pub-4573231550355221, reseller, f08c47fec0942fa0
+lemmatechnologies.com, 1585, direct, 7829010c5bebd1fb
+magicmedia.ae, 6f828808, direct
+onetag.com, 8d4bbebb8fa701e, direct
+rhebus.works, 5252004478, reseller
+smartadserver.com, 5002, reseller, 060d053dcf45cbf3
+unifd.la, 765167, direct
+video.unrulymedia.com, 8167205979129043832, direct
