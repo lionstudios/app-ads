@@ -9459,3 +9459,60 @@ domob.cn, 108633903, RESELLER
 lemmatechnologies.com, 772, RESELLER
 connatix.com, 1742365173855029, RESELLER, 2af98acdee0e81ed
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+152media.info, 152M634, RESELLER
+adform.com, 3041, RESELLER
+adform.com, 3141, RESELLER
+adswizz.com, 623, DIRECT
+adswizz.com, 590, RESELLER
+adswizz.com, kriteria, RESELLER
+adswizz.com, 20, RESELLER
+adswizz.com, 318, RESELLER
+adswizz.com, 80, RESELLER
+adswizz.com, 580, RESELLER
+adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
+algorix.co, 604610, DIRECT, 5b394c12fea27a1d
+alkimiexchange.com, 7339, DIRECT
+amxrtb.com, 105199358, RESELLER
+amxrtb.com, 105199691, RESELLER
+appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
+contextweb.com, 558511, RESELLER
+contextweb.com, 562818, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562947, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563111, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100242, RESELLER, 03113cd04947736d
+decenterads.com, 300197, DIRECT
+eskimi.com, 2020000539, DIRECT
+freewheel.tv, 1512258, RESELLER
+freewheel.tv, 1607872, RESELLER
+freewheel.tv, 1608036, RESELLER
+indexexchange.com, 191503, RESELLER
+katzdigital.com, 318, RESELLER
+katzdigital.com, 80, RESELLER
+loopme.com, 13920, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11528, RESELLER, 6c805f95897a5a30
+loopme.com, 13900, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CU3W1785, RESELLER
+onetag.com, 69f48c2160c8113, RESELLER
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158355, RESELLER, 5d62403b186f2ace
+pubnative.net, 1009334, RESELLER, d641df8625486a7b
+pubnative.net, 1009156, RESELLER, d641df8625486a7b
+risecodes.com, 663791751eb0af000195f5cf, RESELLER
+risecodes.com, 6486c6155b231000010244b0, RESELLER
+risecodes.com, 6548dccf58df6d00010625d2, RESELLER
+rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+screencore.io, 912, RESELLER, a272bc30660e7ec7
+sharethrough.com, e9e083d8, RESELLER
+sharethrough.com, 6qInf8SY, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100055690, DIRECT, 07bcf65f187117b4
+smaato.com, 1100049216, DIRECT, 07bcf65f187117b5
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 265037514, RESELLER
+video.unrulymedia.com, 241535530, RESELLER
+video.unrulymedia.com, 6111915185540403805, DIRECT
+video.unrulymedia.com, 335119963, RESELLER
+vidoomy.com, 4090967, DIRECT
+xandr.com, 15840, RESELLER
