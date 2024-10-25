@@ -12320,3 +12320,8 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
 video.unrulymedia.com, 855915555, DIRECT
+appnexus.com, 2007, RESELLER
+trustedstack.com, TS677PGY3, RESELLER
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+yieldmo.com, 3377199372461613093, RESELLER
+themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
