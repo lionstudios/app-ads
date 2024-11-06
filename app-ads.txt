@@ -12757,3 +12757,10 @@ volantisdigital.com, 678494, DIRECT
 conversantmedia.com, 100718, RESELLER, 03113cd04947736d
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 xapads.com, 212195, DIRECT
+contextweb.com, 563551, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+mediafuse.com, 720, RESELLER
+rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807     
+sharethrough.com, P1ZsrNeY, RESELLER, d53b998a7bd4ecd2
+bidedge.io, 12427296, RESELLER
+advlion.com, 3144, RESELLER
