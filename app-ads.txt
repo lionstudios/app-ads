@@ -12764,3 +12764,18 @@ rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
 sharethrough.com, P1ZsrNeY, RESELLER, d53b998a7bd4ecd2
 bidedge.io, 12427296, RESELLER
 advlion.com, 3144, RESELLER
+admanmedia.com, 2234, DIRECT
+appnexus.com, 10040, RESELLER
+awg.la, 23210412414, DIRECT
+decenterads.com, 300197, RESELLER
+eskimi.com, 2020000768, RESELLER
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2478, RESELLER
+loopme.com, 11386, RESELLER, 6c8d5f95897a5a3b
+outbrain.com, 0089b17935555149a32ed30dc72fc83f2d, RESELLER
+pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
+smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 5371, RESELLER
+sonobi.com, 87f00dcda8, RESELLER, d1a215d9eb5aee9e
+themediagrid.com, A8X5S7, DIRECT, 35d5010d7789b49d
+venatus.com, 643e75e7bdd2e54e754b7b78, DIRECT
