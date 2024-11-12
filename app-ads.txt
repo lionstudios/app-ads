@@ -12791,3 +12791,73 @@ tradplusad.com,97f87d32cbc437a3,RESELLER
 video.unrulymedia.com,947824792,RESELLER
 zetaglobal.net,815,RESELLER
 zetaglobal.net,998,RESELLER
+krushmedia.com, 651, RESELLER
+adsinteractive.com, 99998, RESELLER
+adingenious.com, 75006, RESELLER
+adingenious.com, 75007, RESELLER
+adingenious.com, 75008, RESELLER
+adingenious.com, 75009, RESELLER
+adingenious.com, 75010, RESELLER
+connekt.ai, 8271873578, RESELLER
+screencore.io, 369, RESELLER
+nitrouppi.com, 889928, RESELLER
+admile.com, 10000050, RESELLER
+toponad.com, 1636caf4cee9fe, RESELLER, 1d49fe424a1a456d
+applinear.com, 103093, RESELLER
+rubiconproject.com, 26552, RESELLER
+loopme.com, 12858, RESELLER, 6c8d5f95897a5a3b
+video.unrulymedia.com, 2736329702851206590, RESELLER
+adform.com, 961, RESELLER
+openx.com, 541146395, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 162837, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26926, RESELLER, 0bfd66d529a55807
+magna-mediagroup.digital, 45906, RESELLER
+contextweb.com, 563569, RESELLER, 89ff185a4c4e857c
+appnexus.com, 16641, RESELLER, f5ab79cb980f11d1
+smilewanted.com, 5341, RESELLER
+snack-media.com, SNM_4159, RESELLER
+onetag.com, 8d720136b6b0ab4, RESELLER
+video.unrulymedia.com, 505354689, RESELLER
+boldscreen.com, F9D84EB1, RESELLER
+richaudience.com, iKKFhsvJ2v, RESELLER
+freewheel.tv, 1608120, RESELLER
+freewheel.tv, 1608121, RESELLER
+adtarget.com.tr, 767601, RESELLER
+rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
+onetag.com, 38980b46b0, RESELLER
+voisetech.com, 1134, RESELLER
+consumable.com, 2001564, RESELLER, aefcd3d2f45b5070
+conversantmedia.com, 100714, RESELLER, 03113cd04947736d
+nitrouppi.com, 588928, RESELLER
+loopme.com, 12861, RESELLER, 6c8d5f95897a5a3b
+adform.com, 3214, RESELLER, 9f5210a2f0999e32
+consumable.com, 2001583, RESELLER, aefcd3d2f45b5070
+contextweb.com, 563514, RESELLER, 89ff185a4c4e857c
+triplelift.com, 13894, RESELLER, 6c33edb13117fd86
+lijit.com, 516852, RESELLER, fafdf38b16bf6b2b
+sharethrough.com, 1leEveR6, RESELLER,
+consumable.com, 2001472, RESELLER, aefcd3d2f45b5070
+onetag.com, 8df8f252fa801e4, RESELLER
+freewheel.tv, 1608138, RESELLER
+freewheel.tv, 1608143, RESELLER
+onetag.com, 8df98d922363ab8, RESELLER
+adyoulike.com, 88259a6140f9099d6241096822510435, RESELLER
+adform.com, 2831, RESELLER
+themediagrid.com, JBI8YR, RESELLER, 35d5010d7789b49d
+lijit.com, 383910, RESELLER, fafdf38b16bf6b2b #SOVRN
+flat-ads.com, 69, RESELLER
+appnexus.com, 16455, RESELLER, f5ab79cb980f11d1
+lijit.com, 349013, RESELLER, fafdf38b16bf6b2b
+xandr.com, 15688, RESELLER
+lijit.com, 523648, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2468, RESELLER
+contextweb.com, 563523, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100800, RESELLER, 03113cd04947736d
+pubsfusion.com, 100102, RESELLER
+pubsfusion.com, 100103, RESELLER
+video.unrulymedia.com, 591619742, RESELLER
+152media.info, 152M919, RESELLER
+media.net, 8CU42B24R, RESELLER
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
