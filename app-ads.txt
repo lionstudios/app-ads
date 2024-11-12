@@ -12861,3 +12861,5 @@ media.net, 8CU42B24R, RESELLER
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 1244444110, RESELLER, 6f752381ad5ec0e5
+appnexus.com,16455,RESELLER,f5ab79cb980f11d1
