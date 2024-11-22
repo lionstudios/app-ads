@@ -13055,3 +13055,41 @@ targetspot.com, 354, RESELLER, feb28ed826dcf532
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 vidoomy.com, 2412786, DIRECT
 zetaglobal.net, 546, RESELLER
+App-ads.txt lines to append to the existing list:
+amplift.ai, 537515, RESELLER
+bid-matrix.com, 3b1aacf42de85b72, RESELLER
+conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+smartclip.net, 27985, RESELLER
+lijit.com, 522380, RESELLER, fafdf38b16bf6b2b
+pokkt.com, 8503, RESELLER, c45702d9311e25fd
+media.net, 8CU7H33B7, RESELLER
+appnexus.com, 13774, RESELLER, f5ab79cb980f11d1
+media.net, 8CUSC3UJ7, RESELLER
+appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
+lijit.com, 267257, RESELLER
+criteo.com, B-072730, RESELLER, 9fac4a4a87c2a44f
+rubiconproject.com, 26984, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1041, RESELLER
+openx.com, 539253360, RESELLER, 6a698e2ec38604c6
+conversantmedia.com, 100261, RESELLER, 03113cd04947736d
+sonobi.com, a7c3746d6a, RESELLER, d1a215d9eb5aee9e
+media.net, 8CU4YBH24, RESELLER
+themediagrid.com, DI2GUZ, RESELLER, 35d5010d7789b49d
+singularads.com, 554841, RESELLER
+consumable.com, 2001568, RESELLER, aefcd3d2f45b5070
+onetag.com, 5d44158b3dca4a2, RESELLER
+smilewanted.com, 3221, RESELLER
+152media.info, 152M989, RESELLER
+pubmatic.com, 164649, RESELLER, 5d62403b186f2ace
+smartyads.com, 300126, RESELLER, fd2bde0ff2e62c5d
+Contextweb.com, 563318, RESELLER, 89ff185a4c4e857c
+inmobi.com, 91df396a555c41b0905dec846265f5d7, RESELLER, 83e75a7ae333ca9d
+improvedigital.com, 2320, RESELLER
+lijit.com, 292974, RESELLER, fafdf38b16bf6b2b
+vidoomy.com, 4661610 , RESELLER
+adyoulike.com, ac6fe123f87ad386ce3cb3d9fc057ff9, RESELLER
+freewheel.tv, 1607800, RESELLER
+freewheel.tv, 1607121, RESELLER
+freewheel.tv, 1608319, RESELLER
+freewheel.tv, 1608328, RESELLER
+xapads.com, 210549, RESELLER
