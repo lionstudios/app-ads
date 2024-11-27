@@ -13252,3 +13252,5 @@ video.unrulymedia.com, 1876793108340587286, RESELLER
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 bigo.sg, 128, DIRECT
+smartadserver.com, 5097, DIRECT, 060d053dcf45cbf3
+sharethrough.com, 5097, DIRECT, d53b998a7bd4ecd2
