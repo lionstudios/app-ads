@@ -14201,3 +14201,10 @@ adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, RESELLER
 rixengine.com, 36730, RESELLER
 appnexus.com, 16796, RESELLER, f5ab79cb980f11d1
 x.adprime.com, AJxF6R36a9M6CaTvK, RESELLER
+dobyai.com, 37372, RESELLER
+xapads.com, 211847, RESELLER
+bidedge.io, 12430300, RESELLER
+rixengine.com, 130103, RESELLER
+supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+bigo.sg, 1481, DIRECT
