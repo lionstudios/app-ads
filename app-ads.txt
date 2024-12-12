@@ -14208,3 +14208,7 @@ rixengine.com, 130103, RESELLER
 supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
 xandr.com, 10490, RESELLER
 bigo.sg, 1481, DIRECT
+nativo.com, 5957, RESELLER, 59521ca7cc5e9fee
+zetaglobal.net, 989, RESELLER
+pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
+appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
