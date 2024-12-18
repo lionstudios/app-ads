@@ -14212,3 +14212,23 @@ nativo.com, 5957, RESELLER, 59521ca7cc5e9fee
 zetaglobal.net, 989, RESELLER
 pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
 appnexus.com, 8035, RESELLER, f5ab79cb980f11d1
+mediayo.ai, AJxF6R15a9M6CaTvK, RESELLER
+appnexus.com, 16929, RESELLER, f5ab79cb980f11d1
+xandr.com, 16929, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 207645716, RESELLER
+loopme.com, 14005, RESELLER, 6c8d5f95897a5a3b
+krushmedia.com, AJxF6R658a9M6CaTvK, RESELLER
+adyoulike.com, 9b11b945466734daf080ea52ac771ff3, RESELLER
+smartadserver.com, 5276, RESELLER, 060d053dcf45cbf3
+contextweb.com, 563601, RESELLER, 89ff185a4c4e857c
+triplelift.com, 13907, RESELLER, 6c33edb13117fd86
+sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
+lijit.com, 535224, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2498, RESELLER
+lijit.com, 533827, RESELLER, fafdf38b16bf6b2b #SOVRN
+lijit.com, 527867, RESELLER, fafdf38b16bf6b2b
+conversantmedia.com, 100859, RESELLER, 03113cd04947736d
+contextweb.com, 563584, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563573, RESELLER, 89ff185a4c4e857c
+media.net, 8CUKO1FI7, RESELLER
+sharethrough.com, DcvTh1MK, RESELLER, d53b998a7bd4ecd2
