@@ -511,7 +511,6 @@ kidoz.net, 19692013, RESELLER
 lemmatechnologies.com, 362, RESELLER
 google.com, pub-8754757843517208, RESELLER
 google.com, pub-2919135546789675, RESELLER
-mobilefuse.com, 2281, RESELLER
 yahoo.com, 52378, DIRECT, e1a5b5b6e3255540
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 algorix.co, 60082, Reseller, 5b394c12fea27a1d
@@ -1024,7 +1023,6 @@ bidmachine.io, 36, RESELLER
 bidmachine.io, 60, RESELLER
 bidmachine.io, 74, RESELLER
 bidmachine.io, 77, RESELLER
-mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 rubiconproject.com, 23118, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160671, RESELLER, 5d62403b186f2ace
@@ -1049,7 +1047,6 @@ Pubmatic.com,158651,RESELLER,5d62403b186f2ace
 yahoo.com,55771,RESELLER,e1a5b5b6e3255540
 Peak226.com,12903,RESELLER
 appnexus.com,4052,RESELLER
-mobilefuse.com,240,RESELLER,71e88b065d69c021
 ogury.com,e91052177a44df900ef9977b4b8314fe,RESELLER
 mman.kr,32102,RESELLER
 rubiconproject.com,20050,RESELLER,0bfd66d529a55807
@@ -1463,7 +1460,6 @@ lemmatechnologies.com, 144, RESELLER, 7829010c5bebd1fb
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
-mobilefuse.com, 3847, RESELLER, 71e88b065d69c021
 districtm.io, 102098, RESELLER, 3fd707be9c4527c3
 districtm.io, 102058, RESELLER, 3fd707be9c4527c3
 lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
@@ -1636,7 +1632,6 @@ rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 adingo.jp, 25956, RESELLER
-mobilefuse.com, 4077, DIRECT, 71e88b065d69c021
 adcolony.com, ce53ce7794f16b6e, RESELLER, 1ad675c9de6b5176
 aol.com, 58994, RESELLER, e1a5b5b6e3255540
 conversantmedia.com, 100224, RESELLER, 03113cd04947736d
@@ -3027,8 +3022,6 @@ mars.media, 107876, DIRECT, 8624339f102fb076
 mars.media, 1010443, RESELLER, 8624339f102fb076
 media.net, 8cun37dcc, RESELLER
 mman.kr, 32102, RESELLER
-mobilefuse.com, 240, RESELLER, 71e88b065d69c021
-mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 movve.com, 4350252, RESELLER
 nobid.io, 22275589762, RESELLER
 ogury.com, e91052177a44df900ef9977b4b8314fe, RESELLER
@@ -6105,7 +6098,6 @@ loopme.com,2896,RESELLER,6c8d5f95897a5a3b
 mars.media, 1010443, RESELLER, 8624339f102fb076
 mars.media, 107876, RESELLER, 8624339f102fb076
 media.net, 8CUD6A63S, RESELLER
-mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 movve.com, 4350252, RESELLER
 onetag.com, 5ce58dad8968396, RESELLER
 onetag.com, 5d49f482552c9b6, RESELLER
@@ -8350,7 +8342,6 @@ aps.amazon.com,b1598423-cb0c-4a5e-bafb-6ab071a3e8b8,DIRECT
 vungle.com,A9_UAM,RESELLER
 indexexchange.com,199012,DIRECT,50b1c356f2c5c8fc
 pubmatic.com,161838,DIRECT,5d62403b186f2ace
-mobilefuse.com,4077,DIRECT
 triplelift.com,8614,DIRECT,6c33edb13117fd86
 verve.com,2407313,DIRECT
 media.net,8CU1YF1Z4,DIRECT
