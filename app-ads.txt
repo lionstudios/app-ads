@@ -15378,3 +15378,5 @@ smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 Rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807 #Verve
 adelement.com, 42001, RESELLER
 saharmedia.net, 1683397, RESELLER
+aidentity.ai, dd52104aa5, RESELLER
+rubiconproject.com, 27096, RESELLER, 0bfd66d529a55807
