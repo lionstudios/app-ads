@@ -15380,3 +15380,58 @@ adelement.com, 42001, RESELLER
 saharmedia.net, 1683397, RESELLER
 aidentity.ai, dd52104aa5, RESELLER
 rubiconproject.com, 27096, RESELLER, 0bfd66d529a55807
+atasdigital.com, 504351, RESELLER
+atasdigital.com, 504352, RESELLER
+atasdigital.com, 504353, RESELLER
+appaspire.com, 97212, RESELLER
+appaspire.com, 97213, RESELLER
+appaspire.com, 97214, RESELLER
+adsyield.com, 2401, RESELLER
+adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
+admanmedia.com, 2248, RESELLER
+adwmg.com, 101169, RESELLER, c9688a22012618e7
+selectmedia.asia, 645b5a31e427dc0a87025fa5, RESELLER, e365c871a27c655d
+pubmatic.com, 166165, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166166, RESELLER, 5d62403b186f2ace
+appnexus.com, 17075, RESELLER, f5ab79cb980f11d1
+xandr.com, 17075, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 166184, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 27160, RESELLER, 0bfd66d529a55807
+contextweb.com, 563621, RESELLER, 89ff185a4c4e857c
+smoot.ai, 100047, RESELLER
+ppc.buzz, b7b16ecf8ca53723593894116071700c35867, RESELLER
+mangomob.net, 3x6c9v4b2n, RESELLER
+x.adprime.com, AJxF6R44a9M6CaTvK, RESELLER
+sabio.us, 100092, RESELLER, 96ed93aaa9795702
+carbonatix.com, 14840966, RESELLER
+video.unrulymedia.com, 168269289, RESELLER
+media.net, 8CUYS1Q52, RESELLER
+onetag.com, 67c71bd96716ca3, RESELLER
+pubmatic.com, 165864, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 27136, RESELLER, 0bfd66d529a55807
+onlinemediasolutions.com, 20522, RESELLER, b3868b187e4b6402
+brightcom.com, 20522, RESELLER
+media.net, 8CU384DSV, RESELLER
+video.unrulymedia.com, 428817211, RESELLER
+smoot.ai, 100049, RESELLER
+loopme.com, 14129, RESELLER, 6c8d5f95897a5a3b
+adingo.jp, 32046, RESELLER
+media.net, 8CUXLXU0G, RESELLER
+media.net, 8CU167Y53, RESELLER
+lijit.com, 518574, RESELLER, fafdf38b16bf6b2b #SOVRN
+consumable.com, 2001596, RESELLER, aefcd3d2f45b5070
+brainx.tech, 170, RESELLER
+bidscube.com, 500119, RESELLER
+truvid.com, 2296, RESELLER
+rubiconproject.com, 17412, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159625, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 453209019, RESELLER
+smartadserver.com, 5068, RESELLER, 060d053dcf45cbf3
+radiantfusion.co, 219451841, RESELLER
+freewheel.tv, 144633, RESELLER, 74e8e47458f74754
+auxoads.com, 327-b6272, RESELLER, 20e30b2ae1f670f2
+152media.info, 152M1047, RESELLER
+olaex.biz, 100220, RESELLER
+eskimi.com, 2020000215, RESELLER
+improvedigital.com, 2502, RESELLER
+pubmatic.com, 162710, RESELLER, 5d62403b186f2ace
