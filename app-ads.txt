@@ -15920,7 +15920,35 @@ smartadserver.com, 4111, RESELLER
 smartadserver.com, 4342, RESELLER
 video.unrulymedia.com, 266978658, RESELLER
 volantisdigital.com, 678494, DIRECT
-# Audiomob - Xapads
 conversantmedia.com, 100718, RESELLER, 03113cd04947736d
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 xapads.com, 212195, DIRECT
+bidease.com, bidease_seller_36, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+blueseasx.com, 204037, RESELLER, 7998eac5087f6110
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+openx.com, 561593493, RESELLER, 6a698e2ec38604c6
+playdigo.com, 2041, RESELLER, 92011346d63d3c30
+aidentity.ai, 8847a2695c, RESELLER
+supply.colossusssp.com, 848, RESELLER
+connekt.ai, 8882281918, RESELLER
+dauup.com, 34158, RESELLER, 4daba13e2b0dfd92
+Contextweb.com, 563481, RESELLER, 89ff185a4c4e857c
+iqzone.com, IQ96, RESELLER
+media.net, 8CU574IRP, RESELLER
+motorik.io, 100783, RESELLER
+freewheel.tv, 1608050, RESELLER
+freewheel.tv, 1608057, RESELLER
+onetag.com, 925c32ef718e9fe, RESELLER
+playdigo.com, 1969, RESELLER, 92011346d63d3c30
+pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
+richaudience.com, 7en1bt3GDL, RESELLER
+Vidoomy.com, 6131417, RESELLER
+thebrave.io, 1234747, RESELLER, c25b2154543746ac
+adyoulike.com, b34853042732798bb3c05afcbc0255f1, RESELLER
+adisontv.com, 398, RESELLER
+taipeidigital.com, 0101231145, RESELLER
+danoler.com, 1143, RESELLER
+kelmak.com, 117-p002, RESELLER
+inmobi.com, 95e2b3b059d64b2c97e4cf8dc2b15796, RESELLER, 83e75a7ae333ca9d
