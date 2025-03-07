@@ -18322,3 +18322,5 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
+aps.amazon.com,42df5c79-9a6a-4118-b46f-dd311cf16fb8,DIRECT
+rubiconproject.com,18020,RESELLER
