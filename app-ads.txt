@@ -18325,3 +18325,22 @@ zmaticoo.com, 5135655, RESELLER
 aps.amazon.com,42df5c79-9a6a-4118-b46f-dd311cf16fb8,DIRECT
 rubiconproject.com,18020,RESELLER
 yieldmo.com, 3752597271070318970, DIRECT
+triplelift.com, 7660, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 1382908057, DIRECT
+smartadserver.com, 4849, RESELLER, 060d053dcf45cbf3
+rubiconproject.com,24930,RESELLER,0bfd66d529a55807
+rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
+connekt.ai, 2852512, RESELLER
+video.unrulymedia.com, 463431857, DIRECT
+mman.kr, 33085, RESELLER
+bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
+algorix.co, 54845, RESELLER, 5b394c12fea27a1d
+acexchange.co.kr, 1854269911, RESELLER
+betweendigital.com, 45656, RESELLER
+taurusx.com, 80066, RESELLER
+adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
+my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
+loopme.com, 13946, RESELLER, 6c8d5f95897a5a3b
+nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
+appsheep.com, b4070e679b974be9bf2150cde7d28b73, RESELLER
+improvedigital.com, 2534, RESELLER
