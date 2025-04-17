@@ -11964,7 +11964,6 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 Added.tv, 3d20ca0f, RESELLER
 bidmachine.io, 328, DIRECT
-managerdomain=bidmachine.io
 google.com,pub-7279990999620104,DIRECT,f08c47fec0942fa0
 adelement.com,101,RESELLER
 conversantmedia.com,100457,RESELLER,03113cd04947736d
