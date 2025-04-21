@@ -19430,3 +19430,48 @@ volantisdigital.com, 678494, DIRECT
 conversantmedia.com, 100718, RESELLER, 03113cd04947736d
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 xapads.com, 212195, DIRECT
+conversantmedia.com, 100872, RESELLER, 03113cd04947736d
+cas.ai, 922e6092, RESELLER
+pubmatic.com, 163753, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165995, RESELLER, 5d62403b186f2ace
+snack-media.com, SNM_4199, RESELLER
+freewheel.tv, 1608199, RESELLER
+adagio.io, 1509, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3554, RESELLER
+smrtconnect.com, 820297, Direct
+conversantmedia.com, 100876, Reseller, 03113cd04947736d
+thebigred.co, 900310, Reseller
+captiv.ai, 3071, Direct
+phygitalnow.com, 212082, Direct
+conversantmedia.com, 100876, Reseller, 03113cd04947736d
+captiv.ai, 3072, Direct
+phygitalnow.com, 212083, Direct
+conversantmedia.com, 100876, Reseller, 03113cd04947736d
+smrtconnect.com, 820304, Direct
+thebigred.co, 900315, Reseller
+conversantmedia.com, 100876, Reseller, 03113cd04947736d
+adwmg.com, 101215, RESELLER, c9688a22012618e7
+blasto.ai, 354, RESELLER, 7e936b1feafdaa61
+voisetech.com, 1216, RESELLER, 9009ef0379162448
+aidentity.ai, 05bfbdf84b, RESELLER
+krushmedia.com, AJxF6R439a9M6CaTvK, RESELLER
+onetag.com, 848879e82ca5940, RESELLER
+orangeclickmedia.com, C-1021, RESELLER
+markappmedia.site, 000007, RESELLER
+adops.gr, c23b034c3e1baae09a2964f47d949f5d, RESELLER
+smaato.com, 1100057547, RESELLER, 07bcf65f187117b4
+improvedigital.com, 2542, RESELLER
+sonobi.com, 79e197cdbc, RESELLER, d1a215d9eb5aee9e
+programmaticx.ai, 3044854, RESELLER
+risecodes.com, 67ac81ac2c875500018fbbfc, DIRECT
+smartyads.com, 355, RESELLER, fd2bde0ff2e62c5d
+appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
+xandr.com, 17417, RESELLER, f5ab79cb980f11d1
+smaato.com, 1100058954, RESELLER, 07bcf65f187117b
+sonobi.com, cddceeb06e, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 476748946, RESELLER
+unrulymedia.com, 476748946, RESELLER
