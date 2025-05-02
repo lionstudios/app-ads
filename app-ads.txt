@@ -22,6 +22,7 @@ algorix.co, 54236, RESELLER
 algorix.co, 54510, RESELLER
 aol.com, 25910, RESELLER
 aol.com, 52378, DIRECT, e1a5b5b6e3255540
+google.com, pub-6760272437630577, DIRECT, f08c47fec0942fa0
 applovin.com, 06717930947a870f9d6646592605b594, DIRECT
 applovin.com, 0ab66d5d7c90c8b8005d3eee9aa34dbe, DIRECT
 applovin.com, 0b0fc5f617e224452c494ab1d071f38a, DIRECT
