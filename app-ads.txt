@@ -19478,3 +19478,44 @@ video.unrulymedia.com, 476748946, RESELLER
 unrulymedia.com, 476748946, RESELLER
 themediagrid.com,1283WV,RESELLER,35d5010d7789b49d
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+adbro.me, d4e607f1-06eb-43cb-9d6c-3ff3a7d87dbc, DIRECT
+apester.com, 1105, DIRECT
+freewheel.tv, 1608933, RESELLER
+xandr.com, 13955, RESELLER
+axis-marketplace.com, 239, DIRECT
+improvedigital.com, 2539, RESELLER
+supply.colossusssp.com, 838, DIRECT
+insticator.com, 178a035b-0561-4fec-a9a6-f973ee4c8c31, DIRECT, b3511ffcafb23a32
+video.unrulymedia.com, 579227028, RESELLER
+Media.net, 8cup0enj, DIRECT
+pubmatic.com, 166553, RESELLER, 5d62403b186f2ace
+kueez.com, 4e6bcaa6797e0019a2362406888380d6, DIRECT
+bidinfluence.com, 502034, RESELLER
+decenterads.com, 301703, RESELLER
+bidscube.com, 4000380, RESELLER, 6ecc87a1e0269657
+eskimi.com, 2020000857, RESELLER
+video.unrulymedia.com, 516878781, RESELLER
+adform.com, 3141, RESELLER, 9f5210a2f0999e32
+improvedigital.com, 2480, RESELLER
+conversantmedia.com, 100334, RESELLER, 03113cd04947736d
+x.adprime.com, AJxF6R19a9M6CaTvK, RESELLER
+onetag.com, 758e0f1a8f05074, RESELLER
+vdo.ai, 915813794, RESELLER
+carbonatix.com, 176915265, RESELLER
+carbonatix.com, 176915265, DIRECT
+mediafuse.com, 809, RESELLER
+conversantmedia.com, 100883, RESELLER, 03113cd04947736d
+orangeclickmedia.com, C-1260, RESELLER
+bematterfull.com, 470013009523, RESELLER
+onetag.com, 9263071c4745d03, RESELLER
+rubiconproject.com, 27420, DIRECT, 0bfd66d529a55807
+bematterfull.com, 92391776902, DIRECT
+consumable.com, 2001635, RESELLER, aefcd3d2f45b5070
+conversantmedia.com, 100948, RESELLER, 03113cd04947736d
+aniview.com, 6811763019ab911dd8056e6c, RESELLER, 78b21b97965ec3f8
+adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER, 4ad745ead2958bf7
+zetaglobal.net, 927, RESELLER
+inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 640018708, RESELLER
+adyoulike.com, 4ad745ead2958bf7, RESELLER
+trustedstack.com, TSCLS3659, RESELLER
