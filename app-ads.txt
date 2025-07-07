@@ -19557,3 +19557,8 @@ tubia.com, 40116, RESELLER
 tubia.com, 10715, DIRECT
 video.unrulymedia.com, 5672421953199218469, RESELLER
 video.unrulymedia.com, 469734233, RESELLER
+pgamssp.com, 67f939e4ab77600bf50713d6, RESELLER
+pubmatic.com, 162623, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24852, RESELLER, 0bfd66d529a55807
+smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
+richaudience.com, h44H1yPBlk, RESELLER 
