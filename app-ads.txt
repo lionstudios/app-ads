@@ -19564,3 +19564,52 @@ smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
 richaudience.com, h44H1yPBlk, RESELLER 
 Media.net,8CU47MDK1,RESELLER
 Media.net,8CU59IU47,RESELLER
+33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
+adapex.io, s5217, DIRECT
+adipolo.com, 102039, DIRECT
+adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER
+adyoulike.com, 3bd598..., RESELLER
+appnexus.com, 16912, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15686, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 45128, RESELLER
+chocolateplatform.com, 21516, RESELLER
+connectad.io, 455, RESELLER, 85ac85a30c93b3e5
+emxdgt.com, 2009, RESELLER, 1e1d41537f7cad7f
+escalax.io, 78, RESELLER
+escalax.io, 77, RESELLER
+freewheel.tv, 534605-r-524565, RESELLER
+freewheel.tv, 534605-r-523319, RESELLER
+iion.io, 10209, RESELLER, 013a29748465dc57
+imds.tv, AM1601, RESELLER, ae6c32151e71f19d
+inmobi.com, a66d4a9ff81c4595a9f71acf179f73c5, RESELLER, 83e75a7ae333ca9d
+lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
+lijit.com, 259022, RESELLER, fafdf38b16bf6b2b
+media.net, 8CUVR9O22, RESELLER
+media.net, 8CUM64E17, RESELLER
+media.net, 8CU46MUHQ, DIRECT
+media.net, 8CU42SA73, RESELLER
+mediago.io, 045ac24b888bcf59a09731e7f0f2084f, RESELLER
+minutemedia.com, 01gya4708ddm, RESELLER
+nexverse.ai, 24216, RESELLER
+onetag.com, 61d88450bdb25bc, DIRECT
+onlinemediasolutions.com, 21079, RESELLER, b3868b187e4b6402
+opera.com, pub12058951686464, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 160080, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160925, RESELLER
+pubmatic.com, 162914, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160880, RESELLER, 5d62403b186f2ace
+richaudience.com, MMuGgvZcVd, RESELLER
+richaudience.com, JAHJ4YZq4O, RESELLER
+sharethrough.com, ArMVaNAc, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 9kfhLUI1, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 292d7cb147, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 24f603762e, RESELLER, d1a215d9eb5aee9e
+sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
+start.io, uam, RESELLER
+themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+uis.mobfox.com, 93308, RESELLER, 5529a3d1f59865be
+undertone.com, 4205, RESELLER, d954590d0cb265b9
+verve.com, 2205665, RESELLER
+vidazoo.com, 65944e18d9fa964be88374b8, RESELLER, b6ada874b4d7d0b2
+video.unrulymedia.com, 1022945102, RESELLER
+visiblemeasures.com, 1052, RESELLER
