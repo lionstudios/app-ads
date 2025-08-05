@@ -20076,3 +20076,17 @@ improvedigital.com, 2507, RESELLER
 gitberry.com, 816100062, RESELLER
 pubmatic.com, 166298, RESELLER, 5d62403b186f2ace
 themediagrid.com, KH6MJT, RESELLER, 35d5010d7789b49d
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
+pubnative.net, 1007485, RESELLER, d641df8625486a7b
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100057440, RESELLER, 07bcf65f187117b4
+taurusx.com, 80614, RESELLER
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+xandr.com, 13799, RESELLER
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+risecodes.com, 663cba61d3708c000172de04, RESELLER
+video.unrulymedia.com, 266978658, RESELLER
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4343, RESELLER
