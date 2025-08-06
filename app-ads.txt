@@ -20067,7 +20067,6 @@ inmobi.com, 21dafc7bf4da4c399c6916da78462fb4, RESELLER, 83e75a7ae333ca9d
 152media.info, 152M1099, RESELLER
 ucfunnel.com, par-627B96B2824397DA1EA87DE3AE49E6A8, RESELLER
 rubiconproject.com, 10968, RESELLER, 0bfd66d529a55807
-adorphic.com, 3197, DIRECT
 adorphic.com, 2345, RESELLER
 adorphic.com, 2639, RESELLER
 adorphic.com, 2787, RESELLER
