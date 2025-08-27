@@ -20306,3 +20306,11 @@ velonium.com, 133429, RESELLER
 video.unrulymedia.com, 680648481, RESELLER
 videoheroes.tv, 212644, RESELLER, 064bc410192443d8
 yieldmo.com, 3746143199094055132, RESELLER
+adorphic.com, 3197, DIRECT
+adorphic.com, 2477, RESELLER
+adorphic.com, 2480, RESELLER
+adorphic.com, 2927, RESELLER
+adorphic.com, 3057, RESELLER
+adorphic.com, 3018, RESELLER
+lijit.com, 570365, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 167076, RESELLER, 5d62403b186f2ace
