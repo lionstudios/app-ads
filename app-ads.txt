@@ -20314,3 +20314,199 @@ adorphic.com, 3057, RESELLER
 adorphic.com, 3018, RESELLER
 lijit.com, 570365, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 167076, RESELLER, 5d62403b186f2ace
+152media.info, 152m1042, reseller
+152media.info, 152m1120, reseller
+152media.info,152m896, reseller
+33across.com, 001pg000002mh4hiaw, reseller, bbea06d9c4d2853c
+33across.com, 001pg00000lomyviaf, reseller, bbea06d9c4d2853c
+33across.com, 001pg00001b6i27iaf, reseller, bbea06d9c4d2853c
+33across.com, 001pg00001dtxmwian, reseller, bbea06d9c4d2853c
+33across.com, 001pg00001ewy2miav, reseller, bbea06d9c4d2853c
+acexchange.co.kr, 1076018741, reseller
+adagio.io, 1370, reseller
+adagio.io, 1522, reseller
+adform.com, 2800, reseller, 9f5210a2f0999e32
+adform.com, 3020, reseller, 9f5210a2f0999e32
+adnimation.com, 20250074, reseller
+adtonos.com, pub1604229842, reseller
+adview.com, 36461459, reseller, 1b2cc038a11ea319
+adview.com, 70432372, reseller,1b2cc038a11ea319
+adwmg.com, 101318, reseller, c9688a22012618e7
+adx-blitz.com, 425310, reseller
+adyoulike.com, 1f83d4276a420b48eefd198fc79673f9, reseller, 4ad745ead2958bf7
+adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, reseller, 4ad745ead2958bf7
+adyoulike.com, 79af5ae2d4b09780b36e7bac0b0358ce, reseller, 4ad745ead2958bf7
+adyoulike.com, 88259a6140f9099d6241096822510435, reseller, 4ad745ead2958bf7
+adyoulike.com, 994b7b4e03898048761c7110f11e56c2, reseller, 4ad745ead2958bf7
+adyoulike.com, 9b11b945466734daf080ea52ac771ff3, reseller, 4ad745ead2958bf7
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, reseller, 4ad745ead2958bf7
+adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, reseller, 4ad745ead2958bf7
+adyoulike.com,e6a5125bb342550036f9e4aebefaacde, reseller, 4ad745ead2958bf7
+algorix.co, 604550,reseller, 5b394c12fea27a1d
+apester.com, 2801, reseller
+app-stock.com, 358747, reseller
+appi-fy.ai, afintsm102, reseller
+appnexus.com, 10815, reseller, f5ab79cb980f11d1
+appnexus.com, 12252, reseller, f5ab79cb980f11d1
+appnexus.com, 15670, reseller, f5ab79cb980f11d1
+appnexus.com, 16227, reseller, f5ab79cb980f11d1
+axonix.com, 56051, reseller
+axonix.com, 59193, reseller
+bidfuse.com, bf130820251423x, reseller
+bidmachine.io, 1256, reseller
+brainx.tech, 414, reseller
+cazhype.com, efe937780e95574250dabe07151bdc2332798, reseller
+chocolateplatform.com, 21444, reseller
+cignal.io, 6337, reseller, d9819e7b540bd6e3
+connatix.com, 1955048180499370, reseller, 2af98acdee0e81ed
+connatix.com, 1979135427673080, reseller, 2af98acdee0e81ed
+consumable.com, 2001464, reseller
+consumable.com, 2001598, reseller, aefcd3d2f45b5070
+consumable.com, 2001644, reseller
+consumable.com, 2001647, reseller, aefcd3d2f45b5070
+contextweb.com, 562807, reseller, 89ff185a4c4e857c
+conversantmedia.com, 100343, reseller, 03113cd04947736d
+conversantmedia.com, 100457, reseller, 03113cd04947736d
+conversantmedia.com, 41896, reseller, 03113cd04947736d
+cpmstar.com, 54396, reseller, 1b929e6459dfc260
+datawrkz.com, 2360, reseller
+didna.io, 494n1p17255a, reseller
+display.io, 224469, reseller
+e-planning.net, 1bf7b5d803f178c4, reseller, c1ba615865ed87b2
+e-planning.net, 1f4b8010e3628983, reseller
+e-planning.net, 5997fc922b199a05, reseller, c1ba615865ed87b2
+escalax.io, 73, reseller
+eskimi.com, 2020000021, reseller
+eyeconicspot.com, 4844, reseller, 2cec374be7db7217
+freewheel.tv, 1607140, reseller
+freewheel.tv, 1608885-524565, reseller
+freewheel.tv, 1609032-524565, reseller
+freewheel.tv, 534468-r-523319, reseller
+freewheel.tv, 535026-r-523319, reseller
+freewheel.tv, 535026-r-524565, reseller
+freewheel.tv, 535171-r-523319, reseller
+freewheel.tv, 535171-r-524565, reseller
+freewheel.tv, 536081-r-523319, reseller
+freewheel.tv, 536081-r-524565, reseller
+freewheel.tv, 536089-r-523319, reseller
+freewheel.tv, 536089-r-524565, reseller
+freewheel.tv, sg1248105, reseller
+freewheel.tv, sg1256359, reseller
+gamoshi.io, 267-b3623, reseller, 20e30b2ae1f670f2
+hicmobile.com, 6016, reseller
+hindsightsolutions.net, afhsrtb101, reseller
+improvedigital.com, 2180, reseller
+improvedigital.com, 2423, reseller
+improvedigital.com, 2551, reseller
+improvedigital.com, 2624, reseller
+improvedigital.com, 2625, reseller
+improvedigital.com, 2646, reseller
+inmobi.com, a77ea72e8d0a4902ad8bd174932d7bae, reseller, 83e75a7ae333ca9d
+inmobi.com, b79d5987dbf54dbf993bb6828c10ac21, reseller, 83e75a7ae333ca9d
+lijit.com, 230937, reseller, fafdf38b16bf6b2b
+lijit.com, 289960, reseller, fafdf38b16bf6b2b #sovrn
+lijit.com, 383910, reseller, fafdf38b16bf6b2b
+lijit.com, 468825, reseller, fafdf38b16bf6b2b
+lijit.com, 480816, reseller, fafdf38b16bf6b2b
+lijit.com, 499384, reseller, fafdf38b16bf6b2b
+lijit.com, 512156, reseller, fafdf38b16bf6b2b
+lijit.com, 551431, reseller, fafdf38b16bf6b2b
+lijit.com, 561091, reseller, fafdf38b16bf6b2b
+lijit.com, 562448, reseller, fafdf38b16bf6b2b
+lijit.com, 566254, reseller, fafdf38b16bf6b2b
+loopme.com, 11347, reseller, 6c8d5f95897a5a3b
+loopme.com, 11690, reseller, 6c8d5f95897a5a3b
+loopme.com, 14171, reseller, 6c8d5f95897a5a3b
+lunamedia.io, 32e73ac5f2eb430dacd4e3773e5fdc8e, reseller, 524ecb396915caaf
+media.net, 8cu281r16, reseller
+media.net, 8cu43768m, reseller
+media.net, 8cu62mcq0, reseller
+media.net, 8cu7b073b, reseller
+media.net, 8cu82q277, reseller
+media.net, 8cu8l31yn, reseller
+media.net, 8cue6m0c8, reseller
+media.net, 8cug45it1, reseller
+media.net, 8cuh46n56, reseller
+mediaverse.ai, 302152861, reseller
+metaxsoft.com, 82541531, reseller
+mobimight.com, 75764, reseller
+my-cast.tv, 986754, reseller, 71746737d0bab951
+onetag.com, 8caddedba55712e, reseller
+onlinemediasolutions.com, 20372, reseller, b3868b187e4b6402
+openx.com, 540396775, reseller, 6a698e2ec38604c6
+openx.com, 540543195, reseller, 6a698e2ec38604c6 #verve
+opera.com, pub6148735850944, reseller, 55a0c5fd61378de3
+programmaticx.ai, 6888888, reseller, b42d42eb28400efa
+pubmatic.com, 156423, reseller, 5d62403b186f2ace
+pubmatic.com, 156559, reseller, 5d62403b186f2ace
+pubmatic.com, 159626, reseller, 5d62403b186f2ace
+pubmatic.com, 163037, reseller, 5d62403b186f2ace
+pubmatic.com, 166464, reseller, 5d62403b186f2ace
+pubmatic.com, 166836, reseller, 5d62403b186f2ace
+pubmatic.com, 166859, reseller, 5d62403b186f2ace
+pubmatic.com, 166909, reseller, 5d62403b186f2ace
+pubmatic.com, 166981, reseller, 5d62403b186f2ace
+pubmatic.com, 166987, reseller, 5d62403b186f2ace
+pubnative.net, 1016803, reseller, d641df8625486a7b
+rhebus.works, 4962256775, reseller
+richaudience.com, fe7smwpkqr, reseller
+richaudience.com, tsrfoeeyxo, reseller
+risecodes.com, 67d9a758597e640001744af3, reseller
+rubiconproject.com, 16414, reseller, 0bfd66d529a55807
+rubiconproject.com, 21642, reseller, 0bfd66d529a55807
+rubiconproject.com, 24908, reseller, 0bfd66d529a55807
+rubiconproject.com, 24914, reseller, 0bfd66d529a55807
+rubiconproject.com, 25488, reseller, 0bfd66d529a55807
+rubiconproject.com, 27168, reseller, 0bfd66d529a55807
+rubiconproject.com, 27618, reseller, 0bfd66d529a55807
+rubiconproject.com, 27714, reseller, 0bfd66d529a55807
+rubiconproject.com, 27774, reseller, 0bfd66d529a55807
+saharmedia.net, 1683858, reseller
+selectmedia.asia, 1045, reseller, e365c871a27c655d
+sharethrough.com, 9uwgyyep, reseller, d53b998a7bd4ecd2
+sharethrough.com, edccf295, reseller, d53b998a7bd4ecd2
+sharethrough.com, upd4wjlm, reseller, d53b998a7bd4ecd2
+singularads.com, 984415, reseller
+smaato.com, 1100051000, reseller, 07bcf65f187117b4
+smaato.com, 1100058954, reseller, 07bcf65f187117b4
+smartadserver.com, 4190, reseller, 060d053dcf45cbf3
+smartadserver.com, 4543, reseller, 060d053dcf45cbf3
+smartadserver.com, 4998, reseller
+smartadserver.com, 5407, reseller, 060d053dcf45cbf3
+smartadserver.com, 5418, reseller, 060d053dcf45cbf3
+smartivi.ai, 357109, reseller
+smartyads.com, 1381,reseller, fd2bde0ff2e62c5d
+smartyads.com, 300193, reseller, fd2bde0ff2e62c5d
+smilewanted.com, 5685, reseller
+smilewanted.com, 5715, reseller
+ssp.rocketlab.ai, ajxf6r14a9m6catvk, reseller
+sspmedia.co, 3843025395, reseller
+supply.colossusssp.com, 881, reseller, 6c5b49d96ec1b458
+themediagrid.com, ioy14k, reseller, 35d5010d7789b49d
+themediagrid.com, nc7lxt, reseller, 35d5010d7789b49d
+themediagrid.com, zwgut3, reseller, 35d5010d7789b49d
+toponad.com, 167e3d2f96e411, reseller,1d49fe424a1a456d
+triplelift.com, 12668, reseller, 6c33edb13117fd86
+triplelift.com, 13011, reseller, 6c33edb13117fd86
+triplelift.com, 13423, reseller
+tritondigital.com, 101483, reseller, 19b4454d0b87b58b
+trustedstack.com, ts3xi7m2y, reseller
+trustedstack.com, tsoz5bm3o, reseller
+trustedstack.com, tswrs3h6p, reseller
+verve.com, 15290, reseller, 0c8f5958fc2d6270 #verve
+video.unrulymedia.com, 107423976, reseller
+video.unrulymedia.com, 2335692403, reseller
+video.unrulymedia.com, 3634565696, reseller, 6f752381ad5ec0e5
+video.unrulymedia.com, 585054906, reseller
+video.unrulymedia.com, 640501409, reseller
+video.unrulymedia.com, 710105767, reseller
+video.unrulymedia.com, 729173764, reseller
+video.unrulymedia.com, 831638248788941126, reseller
+video.unrulymedia.com, 894246135, reseller
+visiblemeasures.com, 1003, reseller
+voisetech.com, 1246, reseller, 9009ef0379162448
+xandr.com, 13735, reseller, f5ab79cb980f11d1
+xandr.com, 13898, reseller
+xandr.com, 15278, reseller, f5ab79cb980f11d1
+xandr.com,17096,reseller,f5ab79cb980f11d1
+zetaglobal.net, 998, reseller
