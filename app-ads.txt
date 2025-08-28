@@ -20510,3 +20510,8 @@ xandr.com, 13898, reseller
 xandr.com, 15278, reseller, f5ab79cb980f11d1
 xandr.com,17096,reseller,f5ab79cb980f11d1
 zetaglobal.net, 998, reseller
+vidazoo.com, 6864e2c5609707a223281c6c, RESELLER, b6ada874b4d7d0b2
+taboola.com, 1618213, RESELLER, c228e6794e811952
+app-stock.com, 509221, Reseller, ed8c126ea5971415 (optional)
+33across.com, 001Pg00001CgsiwIAB, RESELLER, bbea06d9c4d2853c
+axonix.com, 59204, reseller
