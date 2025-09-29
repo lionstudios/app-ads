@@ -20675,3 +20675,17 @@ inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER,
 loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
 smartadserver.com, 4284, RESELLER
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+axis-marketplace.com, 246, RESELLER
+axonix.com, 59204, reseller
+33across.com, 001Pg00001CgsiwIAB, RESELLER, bbea06d9c4d2853c
+152media.info,152M491,RESELLER
+app-stock.com, 509221, Reseller, ed8c126ea5971415
+admatic.de, ade-pub-1044423220, RESELLER, uufps1dh5stc6euk
+copper6.com, 764121, RESELLER
+rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
+outbrain.com, 0052a42837b505f8ee68b4559b35c4d4d7, RESELLER
+sharethrough.com, inExmllk, RESELLER, d53b998a7bd4ecd2
+sonobi.com,18a95783cc, RESELLER, d1a215d9eb5aee9e
+152media.info, 152M1134, RESELLER
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+zmaticoo.com, 114122, RESELLER
