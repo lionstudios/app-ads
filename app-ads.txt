@@ -20689,3 +20689,4 @@ sonobi.com,18a95783cc, RESELLER, d1a215d9eb5aee9e
 152media.info, 152M1134, RESELLER
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 zmaticoo.com, 114122, RESELLER
+openx.com, 564020680, DIRECT, 6a698e2ec38604c6
