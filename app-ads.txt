@@ -21852,3 +21852,166 @@ pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 g-global.net, 22025, DIRECT
+33across.com, 0010b00002mptslaaz, reseller, bbea06d9c4d2853c
+adelement.com, 48378, direct
+adform.com, 3320, reseller, 9f5210a2f0999e32
+admanmedia.com, 2269, direct
+admanmedia.com, 2269, reseller
+admanmedia.com, 2286, direct
+adsolut.in, 18057, direct
+advertising.com, 82655, reseller
+adyoulike.com, 9519b1e972120e4089dd996b9d21ebc0, reseller
+alaska-gaming.com, 19876, reseller
+amxrtb.com, 105199934, reseller
+apester.com, 49071, reseller
+appnexus.com,11111,reseller,f5ab79cb980f11d1
+appnexus.com,15670, reseller
+appnexus.com,15941,reseller
+axonix.com, 59187, reseller
+bematterfull.com, 3412449940079, reseller
+betweendigital.com, 44972, direct
+bidease.com, bidease_seller_25, reseller
+bidmachine.io, 1269, reseller
+bold-win.com, 1117, reseller, 71746737d0bab951
+caerulus.io, 3320-37140, reseller
+captiv.ai, 3252, direct
+cas.ai, b2659234, direct
+consumable.com, 2001598, direct, aefcd3d2f45b5070
+contextweb.com,563079,reseller,89ff185a4c4e857c
+conversantmedia.com, 100658, reseller, 03113cd04947736d
+conversantmedia.com, 100659, reseller, 03113cd04947736d
+conversantmedia.com, 100660, reseller, 03113cd04947736d
+conversantmedia.com, 100661, reseller, 03113cd04947736d
+conversantmedia.com, 100662, reseller, 03113cd04947736d
+conversantmedia.com, 100663, reseller, 03113cd04947736d
+conversantmedia.com, 100670, reseller, 03113cd04947736d
+conversantmedia.com, 100671, reseller, 03113cd04947736d
+conversantmedia.com, 100672, reseller, 03113cd04947736d
+conversantmedia.com, 100677, reseller, 03113cd04947736d
+conversantmedia.com, 100713, reseller, 03113cd04947736d
+conversantmedia.com, 100880, reseller, 03113cd04947736d
+conversantmedia.com, 100913, reseller, 03113cd04947736d
+copper6.com, 766156, reseller
+dauup.com, 34202, direct, 4daba13e2b0dfd92
+e-volution.ai, ajxf6r131a9m6catvk, reseller
+elixirvideo.co, 6271, direct
+eplanning.net,ecee0b96300f040e,reseller,c1ba615865ed87b2
+eskimi.com, 2020000104, reseller
+eskimi.com, 2020001186, reseller
+ignitemediatech.com, pub_63623, direct
+imds.tv, 82655, reseller, ae6c32151e71f19d
+improvedigital.com , 1556, reseller
+improvedigital.com, 2602, reseller
+improvedigital.com, 2603, reseller
+improvedigital.com, 2604, reseller
+improvedigital.com, 2605, reseller
+improvedigital.com, 2606, reseller
+improvedigital.com, 2607, reseller
+improvedigital.com, 2608, reseller
+improvedigital.com, 2609, reseller
+improvedigital.com, 2612, reseller
+improvedigital.com, 2613, reseller
+improvedigital.com, 2657, reseller
+improvedigital.com, 2659, reseller
+improvedigital.com, 2693, reseller
+improvedigital.com,2702,reseller
+infolinks.com, 3436751, direct
+inmobi.com, 7dc16f0c6dec469ba1886d896f71cded, reseller, 83e75a7ae333c
+inmobi.com, 954d536310204f42acc55e5ebf18bc53, reseller, 83e75a7ae333ca9d
+inmobi.com,19c2d64f068541e7a796cf6f89ce29a8,reseller,83e75a7ae333ca9d
+intenze.co , 200186 , reseller
+kidoz.net, 15614, reseller, a109366414b7335e
+lijit.com, 258880, reseller, fafdf38b16bf6b2b
+lijit.com, 541964, reseller, fafdf38b16bf6b2b #sovrn
+lijit.com, 568191, reseller, fafdf38b16bf6b2b #sovrn
+lijit.com,512006, reseller, fafdf38b16bf6b2b #sovrn
+limpid.tv, 203715, reseller
+loopme.com, 15575, reseller, 6c8d5f95897a5a3b
+media.net, 8cue65snu ,reseller
+media.net, 8cuuq286l, reseller
+media.net, 8cuy6ix4h, reseller
+metup.it, ajxf6r131a9m6catvk, reseller
+mobimight.com, 75790, direct
+nextmillennium.io, 17066, reseller, 65bd090fa4a1e3d6
+nextmillennium.io, 17085, reseller, 65bd090fa4a1e3d6
+oko.uk,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,reseller,b3511ffcafb23a32
+onetag.com, 942b83b735f66de, reseller
+openx.com, 543174347, reseller, 6a698e2ec38604c6
+openx.com, 557904194, reseller, 6a698e2ec38604c6
+openx.com, 559916143, reseller, 6a698e2ec38604c6
+openx.com, 560878260, reseller, 6a698e2ec38604c6
+opera.com,pub13541542357632,reseller,55a0c5fd61378de3
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, reseller
+phygitalnow.com, 212263, direct
+playstream.media, 3185, direct
+prado.co, 15614, reseller
+pubgrowth.com, 50078, direct
+pubmatic.com, 156872, reseller, 5d62403b186f2ace
+pubmatic.com, 159941, reseller, 5d62403b186f2ace
+pubmatic.com, 162175, reseller, 5d62403b186f2ace
+pubmatic.com, 163066, reseller, 5d62403b186f2ace
+pubmatic.com, 163963, reseller, 5d62403b186f2ace
+pubmatic.com, 164351, reseller, 5d62403b186f2ace
+pubmatic.com,157663,reseller,5d62403b186f2ace
+pubmatic.com,159501, reseller, 5d62403b186f2ace
+pubnative.net, 1008060, direct, d641df8625486a7b
+pubnative.net, 1009046, reseller, d641df8625486a7b
+pubnative.net, 1016768, reseller, d641df8625486a7b
+pubnative.net, 1016858, reseller, d641df8625486a7b
+qntv.io, 72910251, direct
+richaudience.com, ux3kz1todl,reseller
+risecodes.com, 68d54e2fe125150001dd91e2, reseller
+robust-apps.com, 201, reseller
+rubiconproject.com, 13380, reseller, 0bfd66d529a55807
+rubiconproject.com, 20322, reseller, 0bfd66d529a55807
+rubiconproject.com, 24388, reseller, 0bfd66d529a55807
+rubiconproject.com, 26768, reseller, 0bfd66d529a55807
+rubiconproject.com, 27464, reseller, 0bfd66d529a55807
+rubiconproject.com, 27909, reseller, 0bfd66d529a55807
+rubiconproject.com, 28021, reseller, 0bfd66d529a55807
+rubiconproject.com,17974,reseller,0bfd66d529a55807
+rubiconproject.com,26184, reseller, 0bfd66d529a55807
+sabio.us, 100185, reseller, 96ed93aaa9795702
+safex.tv, 5080, direct
+sharethrough.com, 4610, reseller, d53b998a7bd4ecd2
+sharethrough.com, inexmllk, direct, d53b998a7bd4ecd2
+smaato.com, 1100059370, reseller, 07bcf65f187117b4
+smartadserver.com, 4721-ob, reseller, 060d053dcf45cbf3
+smartivi.ai, 357492, reseller
+smartyads.com, 300166, reseller, fd2bde0ff2e62c5d
+smoot.ai, 100104, reseller
+smrtconnect.com, 820362, direct
+sonobi.com, 296bf9795d, reseller, d1a215d9eb5aee9e
+sonobi.com,f2597d7a13,reseller,d1a215d9eb5aee9e
+start.io, 139527569, reseller
+thebigred.co, 900403, direct
+thegrowthy.com, ajxf6r131a9m6catvk, reseller
+themediagrid.com, 9frca5, direct, 35d5010d7789b49d
+themediagrid.com, mrpyl1, reseller, 35d5010d7789b49d
+themediagrid.com, q6vxle, direct, 35d5010d7789b49d
+themediagrid.com, ws2d8n, reseller, 35d5010d7789b49d
+themediagrid.com, xbygoc, reseller, 35d5010d7789b49d
+thunder-monetize.com, 1007055, reseller
+thunder-monetize.com, 1007485, reseller
+thunder-monetize.com, 1100057440, reseller
+thunder-monetize.com, 20744, reseller
+toponad.com,16569723d4bfa4,reseller,1d49fe424a1a456d
+toponad.com,165a5011a17c2b,reseller,1d49fe424a1a456d
+triplelift.com, 8614, reseller, 6c33edb13117fd86
+triplelift.com,8784, reseller  , 6c33edb13117fd86
+ubrikvideo.com, 420270, direct
+video.unrulymedia.com, 108033672, reseller
+video.unrulymedia.com, 146647607, reseller
+video.unrulymedia.com, 201313863, reseller
+video.unrulymedia.com, 586616193, reseller
+video.unrulymedia.com, 657436911, reseller
+videoheroes.tv, 212732, reseller, 064bc410192443d8
+visiblemeasures.com, 1004, reseller
+visiblemeasures.com, 1018, reseller
+xandr.com, 13363, reseller, f5ab79cb980f11d1
+xandr.com, 17724, reseller
+xandr.com, 3251, reseller
+yandex.com, 311761695, reseller
+zetaglobal.net, 512, reseller
+zetaglobal.net, 848, reseller
+zmaticoo.com, 5135199, reseller
