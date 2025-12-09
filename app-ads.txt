@@ -22145,3 +22145,5 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 video.unrulymedia.com, 266978658, RESELLER
 bidmachine.io,1201,RESELLER
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, reseller, 83e75a7ae333ca9d
+mindtos.com,mt0b219ff842ee3772, reseller
