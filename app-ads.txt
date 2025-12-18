@@ -24766,3 +24766,15 @@ pubmatic.com, 159100, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161546, RESELLER, 5d62403b186f2ace
 appnexus.com, 8420, RESELLER, f5ab79cb980f11d1
 themediagrid.com, D3Y1OM, RESELLER, 35d5010d7789b49d
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
+aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+media.net, 8CU355VS4, RESELLER
+media.net, 8CU813E2H, RESELLER
+orangeclickmedia.com, c-1181, RESELLER
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+ushareit.com, LCb555b3bc8667a09a, RESELLER
