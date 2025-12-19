@@ -24781,3 +24781,4 @@ ushareit.com, LCb555b3bc8667a09a, RESELLER
 thebrave.io, 1234845, DIRECT, c25b2154543746ac
 sharethrough.com,4343,RESELLER,d53b998a7bd4ecd2
 algorix.co,604540,RESELLER,5b394c12fea27a1d
+jambojar.com, 204111, RESELLER
