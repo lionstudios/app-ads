@@ -24782,3 +24782,106 @@ thebrave.io, 1234845, DIRECT, c25b2154543746ac
 sharethrough.com,4343,RESELLER,d53b998a7bd4ecd2
 algorix.co,604540,RESELLER,5b394c12fea27a1d
 jambojar.com, 204111, RESELLER
+9dotsmedia.com, 122270, reseller
+9dotsmedia.com, 1284, reseller
+adagio.io, 1054, reseller
+adagio.io, 1548, reseller
+adagio.io, 1575, reseller
+adagio.io, 1582, reseller
+adform.com, 3344, reseller
+adingo.jp, 32749, reseller
+admanmedia.com, 2320, reseller
+admile.com, 61850055, reseller
+adnimation.com, 20250084, reseller
+adverge.ai, 10239, reseller
+adyoulike.com, 5b10e895bf138e0006ef1f9159af5cb4, reseller, 4ad745ead2958bf7
+aidentity.ai, bd60bd417f, reseller
+anzu.io, 6644d9fd0068a0536c25474e, reseller, 1c1b7acf4992136c
+anzu.io, 691050885ef227013c33b61f, reseller, 1c1b7acf4992136c
+anzu.io, 694152723b205d553e569161, reseller, 1c1b7acf4992136c
+apexflowsdk.com, x7kp9fvt2q, reseller
+audienceconnect.io, 624, reseller
+axonix.com, 59080, reseller, bc385f2b4a87b721
+axonix.com, 59218, reseller
+bidmachine.io, 1260, reseller
+bidmachine.io, 1371, reseller
+bidmachine.io, 1372, reseller
+bidscube.com, 500058, reseller, 6ecc87a1e0269657
+blasto.ai, 491, reseller, 7e936b1feafdaa61
+carambo.la, 914731582, reseller, 08a6b436f8183ac9
+carambo.la, 9147315824, reseller, 08a6b436f8183ac9
+contxtful.com, 250911, reseller
+conversantmedia.com, 100999, reseller, 03113cd04947736d
+conversantmedia.com, 101145, reseller, 03113cd04947736d
+copper6.com, 766175, reseller
+cpmstar.com, 54504, reseller
+dauup.com, 34202, reseller, 4daba13e2b0dfd92
+exchange.buzzifly123.com, 75, reseller
+freewheel.tv, 534963, reseller
+freewheel.tv, 536110-r-523319, reseller
+freewheel.tv, 536110-r-524565, reseller
+freewheel.tv, sg1256366, reseller
+gamaigroup.com, 323060, reseller
+getmediamx.com, 1220480, reseller
+gitberry.com, 816110171, reseller
+ignitemediatech.com, pub_11130, reseller
+ignitemediatech.com, pub_11134, reseller
+iion.io, 10311, reseller, 013a29748465dc57
+improvedigital.com, 2174_386, reseller
+improvedigital.com, 2666, reseller
+improvedigital.com, 2709, reseller
+inmobi.com, 9098ab5aeb2447d1995b7fc3249abe67, reseller, 83e75a7ae333ca9d
+inmobi.com, d97d92a225a244808dbc4e785dc688c8, reseller, 83e75a7ae333ca9d
+krushmedia.com, ajxf6r519a9m6catvk, reseller
+lijit.com, 528770, reseller, fafdf38b16bf6b2b #sovrn
+lijit.com, 556948, reseller, fafdf38b16bf6b2b
+lijit.com, 560613, reseller, fafdf38b16bf6b2b
+lijit.com, 565015, reseller, fafdf38b16bf6b2b
+lijit.com, 567973, reseller, fafdf38b16bf6b2b #sovrn
+lijit.com, 582193, reseller, fafdf38b16bf6b2b
+loopme.com, 11524, reseller
+loopme.com, 11566, reseller
+loopme.com, 15546, reseller, 6c8d5f95897a5a3b
+madstream.net, 784618, reseller
+mcgads.com, b94y24, reseller
+media.net, 8cu1ni831, reseller
+media.net, 8cu47mdk1, reseller
+media.net, 8cu7c02bh, reseller, 818f58666cabc936
+media.net, 8cu980voi, reseller
+media.net, 8cuj45kqq, reseller
+media.net, 8cuo2dq17, reseller
+media.net, 8cuwxz82z, reseller
+nativo.com, 5804, reseller, 59521ca7cc5e9fee
+netaddiction.it, 2018, reseller
+olaex.biz, 100185, reseller
+onetag.com, 94458fa5f665c90, reseller
+onetag.com, 94d60d9dd6640e8, reseller
+onetag.com, 94f408092cae673, reseller
+openx.com, 540786724, reseller, 6a698e2ec38604c6
+opera.com, pub7507776842240, reseller, 55a0c5fd61378de3
+pgamssp.com, 68d5559c00897ebb7d0f6ceb, reseller
+pgamssp.com, 690deb67dc526e4d300d0bb8, reseller
+pubmatic.com, 167216, reseller, 5d62403b186f2ace
+pubmatic.com, 167514, reseller, 5d62403b186f2ace
+pubmatic.com, 167515, reseller, 5d62403b186f2ace
+pubnative.net, 1016862, reseller, d641df8625486a7b
+pubsfusion.com, 100175, reseller
+richaudience.com, ibgrmxsp4o, reseller
+richaudience.com, ziflg0kfqu, reseller
+rubiconproject.com, 28075, reseller, 0bfd66d529a55807
+sharethrough.com, 3439, reseller, d53b998a7bd4ecd2
+sharethrough.com, 3964, reseller, d53b998a7bd4ecd2
+sharethrough.com, 4483, reseller, d53b998a7bd4ecd2
+sharethrough.com, 4569, reseller, d53b998a7bd4ecd2
+sharethrough.com, 5314, reseller, d53b998a7bd4ecd2
+smaato.com, 1100058992, reseller, 07bcf65f187117b4
+smartadserver.com, 3357, reseller, 060d053dcf45cbf3
+smilewanted.com, 5291, reseller
+smilewanted.com, 5941, reseller
+spinx.io, 1373698871, reseller
+start.io, 196163636, reseller
+trustedstack.com, tsghk69i5, reseller
+ushareit.com, lc57ca6e7af12dfab2, reseller
+video.unrulymedia.com, 873174368, reseller
+xandr.com, 7396, reseller
+zetaglobal.net, 991, reseller
