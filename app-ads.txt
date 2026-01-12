@@ -24886,3 +24886,17 @@ video.unrulymedia.com, 873174368, reseller
 xandr.com, 7396, reseller
 zetaglobal.net, 991, reseller
 anzu.io,69444a204113b23cb8d7c13d,RESELLER,1c1b7acf4992136c
+smartadserver.com, 5657, DIRECT, 060d053dcf45cbf3
+sharethrough.com, 5657, DIRECT, d53b998a7bd4ecd2
+apester.com,2701,RESELLER
+consumable.com,2001664,RESELLER,aefcd3d2f45b5070
+dauup.com,34115,RESELLER,4daba13e2b0dfd92
+osgdigital.net,100008,RESELLER
+pinklion.io,190976928,RESELLER
+sharethrough.com,5015,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,S2rESyUH,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,YYFDsr3Y,RESELLER,d53b998a7bd4ecd2
+smartbid.ai,SMB50005,RESELLER,12a9c44f6d26cbe1
+ushareit.com,LC13f68588aa4ee212,RESELLER
+vidazoo.com,693ab2705f81fd6c203e85e1,RESELLER,b6ada874b4d7d0b2
+video.unrulymedia.com,1164903707,RESELLER,98c21ef9a666c68b
