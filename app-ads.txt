@@ -24901,3 +24901,5 @@ ushareit.com,LC13f68588aa4ee212,RESELLER
 vidazoo.com,693ab2705f81fd6c203e85e1,RESELLER,b6ada874b4d7d0b2
 video.unrulymedia.com,1164903707,RESELLER,98c21ef9a666c68b
 applovin.com, 3104dcc9841e3a6597648624e53733bf, direct
+google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
+google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
