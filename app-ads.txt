@@ -1754,7 +1754,6 @@ xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
-liftoff.io, 7f6945815e6, RESELLER
 hyperad.tech, 20, RESELLER
 rhebus.works, 3905352096, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
@@ -3815,7 +3814,6 @@ inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
-liftoff.io, 7f6945815e6, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
 lkqd.net, 450, RESELLER, 59c49fa9598a0117
@@ -5626,7 +5624,6 @@ keenkale.com,93965,RESELLER,6c1c00b269ccdfa4
 lemmatechnologies.com,144,RESELLER,7829010c5bebd1fb
 lemmatechnologies.com,552,RESELLER,7829010c5bebd1fb
 levelx.tv,1192944,RESELLER
-liftoff.io,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
 lijit.com,258942-eb,RESELLER,fafdf38b16bf6b2b
 lijit.com,258942,RESELLER,fafdf38b16bf6b2b
 lijit.com,310770,RESELLER,fafdf38b16bf6b2b
@@ -6929,7 +6926,6 @@ keenkale.com,93965,RESELLER,6c1c00b269ccdfa4
 lemmatechnologies.com,144,RESELLER,7829010c5bebd1fb
 lemmatechnologies.com,552,RESELLER,7829010c5bebd1fb
 levelx.tv,1192944,RESELLER
-liftoff.io,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
 lijit.com,258942-eb,RESELLER,fafdf38b16bf6b2b
 lijit.com,258942,RESELLER,fafdf38b16bf6b2b
 lijit.com,310770,RESELLER,fafdf38b16bf6b2b
@@ -8340,7 +8336,6 @@ video.unrulymedia.com, 392157850, RESELLER
 xandr.com, 15769, RESELLER
 zmaticoo.com, 5135195, RESELLER
 aps.amazon.com,b1598423-cb0c-4a5e-bafb-6ab071a3e8b8,DIRECT
-vungle.com,A9_UAM,RESELLER
 indexexchange.com,199012,DIRECT,50b1c356f2c5c8fc
 pubmatic.com,161838,DIRECT,5d62403b186f2ace
 triplelift.com,8614,DIRECT,6c33edb13117fd86
@@ -10501,7 +10496,6 @@ applovin.com, 4d9886fffc5aa188f0390a87c66c6e35, DIRECT
 applovin.com, ac8e27374608f87b97a2d730ded5b4c6, DIRECT
 applovin.com, d603650b48ccb9f857e3f2fa41688466, DIRECT
 applovin.com, beda6205b605502385418676bfdf0e2f, DIRECT
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
 152media.info,152M312,RESELLER
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
 adelement.com,30208,RESELLER
@@ -22652,7 +22646,6 @@ video.unrulymedia.com,657436911,reseller
 video.unrulymedia.com,667989109,reseller
 visoon.de, 64393, reseller
 voisetech.com, 1066, reseller
-vungle.com, a9_uam, reseller
 xad.com,958,reseller
 xandr.com, 15018, reseller
 xandr.com, 16856, reseller
