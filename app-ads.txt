@@ -24895,3 +24895,10 @@ applovin.com, 3104dcc9841e3a6597648624e53733bf, direct
 google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
 google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
 video.unrulymedia.com, 422652310, DIRECT
+smaato.com, 1100059655, RESELLER, 07bcf65f187117b4
+chocolateplatform.com, 22377, RESELLER
+appnexus.com,15670,RESELLER
+eskimi.com, 2020001193, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
