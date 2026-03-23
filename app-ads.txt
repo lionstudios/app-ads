@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 03/05/2026 0112pm MST
+#last updated: 03/23/2026 0900AM MST
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -4829,6 +4829,10 @@ lijit.com, 553434, Reseller, fafdf38b16bf6b2b
 adyoulike.com, 9519b1e972120e4089dd996b9d21ebc0, Reseller
 conversantmedia.com, 100913, Reseller, 03113cd04947736d
 
+#blis
+rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
+blis.com, 205, DIRECT, 61453ae19a4b73f4
+
 #brave
 eskimi.com, 2020000210, RESELLER
 thebrave.io, 1234845, DIRECT, c25b2154543746ac
@@ -7090,6 +7094,34 @@ yieldbid.io, 129310, RESELLER
 yieldbid.io, 382201, DIRECT
 yieldbid.io, 382202, DIRECT
 yieldbid.io, 340192, RESELLER
+adagio.io, 1563, RESELLER
+adingenious.com, 70004, RESELLER
+admagnetix.io, 202141, RESELLER
+advibe.media, 382212, RESELLER
+advibe.media, 382213, RESELLER
+adyoulike.com, 283e6e26614a07d896da0933c3719127, RESELLER, 4ad745ead2958bf7
+appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
+k-words.io, 100032, DIRECT
+media.net, 8CUGG4P7J, RESELLER
+media.net, 8CU56GN82, RESELLER
+nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
+nexverse.ai, 80132, DIRECT
+playdigo.com, 4120, DIRECT, 92011346d63d3c30
+pubnative.net, 1016935, DIRECT, d641df8625486a7b
+revealon.media, 18080, DIRECT
+revealon.media, 19124, RESELLER
+rubiconproject.com, 27264, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27266, RESELLER, 0bfd66d529a55807
+smilewanted.com, 6007, RESELLER
+smilewanted.com, 4391, RESELLER
+thejungletechnology.com, 3199628, DIRECT
+tredio.io, 357a6fdf7642bf815a88822c447d9dc437112, DIRECT
+vidazoo.com, 699c3632f07111e90e359d43, RESELLER, b6ada874b4d7d0b2
+vrtcal.com, 557, DIRECT, c6daee9168853e2d
+xandr.com, 17189, RESELLER
+
+#googleadmanager
+google.com, pub-4140699128364550, DIRECT, f08c47fec0942fa0
 
 #hyprmx
 hyprmx.com, 23322716087, DIRECT, 79540da20c07237e
@@ -12118,6 +12150,13 @@ eskimi.com, 2020001193, RESELLER
 rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+growintech.co, 2723d092b63885e0d7c260cd006e8b9d91846, RESELLER, 9d8dfe5c6b00fb37
+improvedigital.com, 2720, RESELLER
+playdigo.com, 2183, RESELLER, 92011346d63d3c30
+alaska-gaming.com, 17116, RESELLER
+zetaglobal.net, 808, RESELLER
+adyoulike.com, ff5fc9a322b4a4fe5a762ca97f9673e3, RESELLER
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 
 #yieldmo
 yieldmo.com, 3752597271070318970, direct
