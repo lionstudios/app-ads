@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 05/06/2026 0830am MST
+#last updated: 05/11/2026 0315pm MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -12150,6 +12150,7 @@ alaska-gaming.com, 17116, RESELLER
 zetaglobal.net, 808, RESELLER
 adyoulike.com, ff5fc9a322b4a4fe5a762ca97f9673e3, RESELLER
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+Media.net, 8CARK51M1, RESELLER
 
 #yieldmo
 yieldmo.com, 3752597271070318970, direct
