@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 05/18/2026 1000am MDT
+#last updated: 05/27/2026 0200PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -4870,6 +4870,43 @@ appsheep.com, 19fac6be6d37458e877971a87ace2f87, DIRECT
 appsheep.com, 224258f862004b648ddd1bffe9824ff6, DIRECT
 openx.com, 564972066, DIRECT, 6a698e2ec38604c6
 improvedigital.com, 2869, DIRECT
+thebrave.io, 1234845, DIRECT, c25b2154543746ac
+admanmedia.com, 2402, DIRECT
+pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 3948367200, RESELLER
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c
+Smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER
+loopme.com, 14118, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+adform.com, 2671, RESELLER
+adform.com, 3393, RESELLER, 9f5210a2f0999e32
+appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
+yieldmo.com, 2807970144171533194, RESELLER
+conversantmedia.com, 100308, RESELLER, 03113cd04947736d
+themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+triplelift.com, 12456, RESELLER, 6c33edb13117fd86
+media.net, 8CUSC3UJ7, RESELLER
+improvedigital.com, 2316, RESELLER
+pgamssp.com, 6720eaffd76cc4dc1f00de26, RESELLER
+improvedigital.com, 2643, RESELLER
+33across.com, 0014000000ftZtNAAU, RESELLER, bbea06d9c4d2853c
+bidmachine.io, 1371, RESELLER
+bidmachine.io, 1372, RESELLER
+freewheel.tv, 539813-r-524565, RESELLER
+freewheel.tv, 539813-r-523319, RESELLER
+anzu.io, 5ecaa855b89805ae66adeae0, RESELLER
+onetag.com, 95b3718ec52c228, RESELLER
+rtbhouse.com, v9OtJDzCWTKAPdzbpmOI, RESELLER, 4f3b94578e85950c
+risecodes.com, 69c27ce4d35af000017c7c5d, RESELLER
 
 #bigoads
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
