@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 06/09/2026 0500PM MDT
+#last updated: 06/11/2026 0200PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1513,6 +1513,7 @@ smartadserver.com,5749,DIRECT,060d053dcf45cbf3
 thebrave.io,1234845,DIRECT,c25b2154543746ac
 
 #Anzu
+managerdomain=anzu.io,in-game
 anzu.io,67ab25c92b15e6a94384858e,DIRECT,1c1b7acf4992136c
 opera.com,pub10083924095168,RESELLER,55a0c5fd61378de3
 toponad.com,16952276e6b818,RESELLER,1d49fe424a1a456d
@@ -10664,6 +10665,19 @@ uis.mobfox.com, 1645, DIRECT, 5529a3d1f59865be
 xandr.com, 3364, RESELLER
 
 #rise
+
+#se7en
+smilewanted.com, 5983, RESELLER
+sharethrough.com, 3964, RESELLER, d53b998a7bd4ecd2
+freewheel.tv, 534963-r-524565, RESELLER
+freewheel.tv, 534963-r-523319, RESELLER
+adagio.io, 1581, RESELLER
+algorix.co, 604550,RESELLER, 5b394c12fea27a1d
+axonix.com, 59215, reseller
+richaudience.com, x1vKpaGD9I, RESELLER
+aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
+e-planning.net,ea9874674191f1ff, RESELLER,c1ba615865ed87b2
+oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
 
 #sharethrough
 sharethrough.com, 5JOVm6UM, DIRECT, d53b998a7bd4ecd2
