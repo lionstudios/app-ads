@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 06/11/2026 0200PM MDT
+#last updated: 06/15/2026 0200 PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -8429,6 +8429,20 @@ zetaglobal.net,630,reseller
 
 #iion
 triplelift.com, 14551, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 28219, RESELLER, 0BFD66D529A55807
+sharethrough.com, 4618, RESELLER, D53B998A7BD4ECD2
+rubiconproject.com, 13510, RESELLER
+frameplay.gg, 9251981480, RESELLER, F3E384C386126E9D
+loopme.com, 16347, RESELLER, 6C8D5F95897A5A3B
+axonix.com, 59219, RESELLER
+bigo.sg, 889, RESELLER
+driftpixel.ai, 1698262904, RESELLER
+adorphic.com, 4048, RESELLER
+spinx.biz, 1373698878, RESELLER
+gitberry.com, 815100012, RESELLER
+dauup.com, 34218, RESELLER, 4DABA13E2B0DFD92
+tredio.io, 357A6FDF7642BF815A88822C447D9DC437127, RESELLER
+risecodes.com, 67D9A758597E640001744AF3, RESELLER
 
 #ironsource
 OWNERDOMAIN=lionstudios.cc
@@ -10688,6 +10702,26 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 5657, DIRECT, 060d053dcf45cbf3
 sharethrough.com, 5657, DIRECT, d53b998a7bd4ecd2
+
+# SOVRN
+lijit.com, 606277, DIRECT, fafdf38b16bf6b2b
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+dauup.com, 34142, RESELLER
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1080, Reseller, 71746737d0bab951
+axonix.com, 59143, reseller
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+video.unrulymedia.com, 1566669042, RESELLER
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+bidmachine.io,1201,RESELLER
+thunder-monetize.com, 9630185716, RESELLER
+programmaticx.ai, 100464, RESELLER
+sharethrough.com, 4926, RESELLER, d53b998a7bd4ecd2
 
 #start.io
 start.io, 134464505, DIRECT
@@ -13098,6 +13132,29 @@ ogury.com, 8bd1f9d4-92fd-4819-aa00-688d37e4d2ce, RESELLER
 pubmatic.com, 165359, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 979624895, RESELLER, 29bc7d05d309e1bc
 themediagrid.com, 6SAEIP, RESELLER, 9fac4a4a87c2a44f
+adsmartx.ai, 729329, RESELLER
+display.io, 236055, RESELLER
+sharethrough.com, 5451, RESELLER, d53b998a7bd4ecd2
+firstimpression.io, 5001, RESELLER, a960877e77e58dd6
+adagio.io, 1636, RESELLER
+redmob.io,20260519000001,RESELLER
+e-planning.net, 842e76d97795cf96, RESELLER
+trustedstack.com, TS122JAF1, RESELLER
+blasto.ai, 591, RESELLER, 7e936b1feafdaa61
+richaudience.com, 8DQuYgekqp, RESELLER
+freewheel.tv, 545428-r-524565, RESELLER
+freewheel.tv, 545428-r-523319, RESELLER
+antipodesdigital.com, 321, RESELLER
+vidazoo.com, 6a1d95029e00cbc8ee4ebdbe, RESELLER, b6ada874b4d7d0b2
+adgrid.io, 32834, RESELLER
+display.io, 239139, RESELLER
+pgamssp.com, 6a0f21e3cb757b43f8030f36, RESELLER
+freewheel.tv, sg1258223, RESELLER
+start.io, 176414852, RESELLER
+adagio.io, 1643, RESELLER
+improvedigital.com, 1947, RESELLER
+media.net, 8CA27Q5PL, RESELLER
+sharethrough.com, 4083, RESELLER, 060d053dcf45cbf3
 
 #vrtcal
 vrtcal.com, 474, DIRECT, c6daee9168853e2d
