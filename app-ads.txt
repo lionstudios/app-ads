@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 06/15/2026 0200 PM MDT
+#last updated: 06/17/2026 0200 PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -9280,6 +9280,7 @@ video.unrulymedia.com, 645663965, RESELLER
 smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 admanmedia.com, 2050, RESELLER
 e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
+media.net, 8CATG6W6B, DIRECT
 
 #meta
 facebook.com, 1988427884761107, RESELLER, c3e20eee3f780d68
