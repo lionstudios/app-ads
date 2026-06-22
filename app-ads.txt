@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 06/17/2026 0200 PM MDT
+#last updated: 06/22/2026 0200 PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -4910,6 +4910,7 @@ rtbhouse.com, v9OtJDzCWTKAPdzbpmOI, RESELLER, 4f3b94578e85950c
 risecodes.com, 69c27ce4d35af000017c7c5d, RESELLER
 yieldmo.com, 4083717728475488540, DIRECT
 app-stock.com, 188422, DIRECT, ed8c126ea5971415
+pubmatic.com, 167846, DIRECT, 5d62403b186f2ace
 
 #bigoads
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
