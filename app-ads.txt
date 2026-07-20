@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 07/07/2026 0200 PM MDT
+#last updated: 07/20/2026 0100 PM MDT
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1479,6 +1479,7 @@ improvedigital.com, 2507, RESELLER
 gitberry.com, 816100062, RESELLER
 pubmatic.com, 166298, RESELLER, 5d62403b186f2ace
 themediagrid.com, KH6MJT, RESELLER, 35d5010d7789b49d
+adorphic.com, 3197, DIRECT
 
 #adsyield
 
@@ -10665,6 +10666,8 @@ g-global.net, 22025, DIRECT
 
 #pubmatic
 pubmatic.com, 165343, DIRECT, 5d62403b186f2ace
+
+pubmatic.com, 168194, DIRECT, 5d62403b186f2ace
 
 #pulsepoint
 
