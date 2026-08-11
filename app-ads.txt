@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/05/2026 0900 AM MDT
+#last updated: 08/11/2026 1230 PM GMT+2
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -7538,6 +7538,10 @@ triplelift.com,14793,RESELLER,6c33edb13117fd86
 vidazoo.com,6a04bf983b6b70e1f48a52c2,RESELLER,b6ada874b4d7d0b2
 video.unrulymedia.com,244078412,RESELLER,98c21ef9a666c68b
 video.unrulymedia.com,999195703,RESELLER,98c21ef9a666c68b
+datacygnal.io,14481346,RESELLER
+shinka.io,1000003,RESELLER,a9bd8fda17435929
+triplelift.com,14821,RESELLER,6c33edb13117fd86
+triplelift.com,14821-EB,RESELLER,6c33edb13117fd86
 
 #gadsme
 inventorypartnerdomain=gadsme.com
