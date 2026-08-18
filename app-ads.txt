@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/14/2026 1647 PM GMT+2
+#last updated: 08/18/2026 1317 PM GMT+2
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -11409,6 +11409,10 @@ richaudience.com, x1vKpaGD9I, RESELLER
 aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
 e-planning.net,ea9874674191f1ff, RESELLER,c1ba615865ed87b2
 oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
+Trustedstack.com, TSP4UUFB8, RESELLER
+seedtag.com, 674f42e4de70100007eeab9d, RESELLER
+programmaticx.ai, 659051219, DIRECT, b42d42eb28400efa
+targetbetter.com, 1219, DIRECT
 
 #sharethrough
 sharethrough.com, 5JOVm6UM, DIRECT, d53b998a7bd4ecd2
