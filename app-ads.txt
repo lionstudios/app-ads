@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/18/2026 1317 PM GMT+2
+#last updated: 08/19/2026 1442 PM GMT+2
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -344,6 +344,13 @@ smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 5385, RESELLER, d53b998a7bd4ecd2
 triplelift.com, 9636, DIRECT, 6c33edb13117fd86
 indexexchange.com, 213773, DIRECT, 50b1c356f2c5c8fc
+rubiconproject.com, 28775, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
+first.media, 1010, DIRECT
+pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
+triplelift.com, 14848, RESELLER, 6c33edb13117fd86
+triplelift.com, 14852, RESELLER, 6c33edb13117fd86
+triplelift.com, 14852-EB, RESELLER, 6c33edb13117fd86
 
 #adjoe
 adjoe-programmatic.com, a3e7d446-647b-4f4e-a001-83c8b7a48801, DIRECT
