@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/25/2026 1018 PM GMT+2
+#last updated: 08/25/2026 12:30 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -8902,6 +8902,7 @@ video.unrulymedia.com, 122802510, RESELLER
 #indexexchange
 indexexchange.com, 199012, DIRECT
 indexexchange.com, 198997, DIRECT
+indexexchange.com, 218154, DIRECT, 50b1c356f2c5c8fc
 
 #inmobi
 inmobi.com, be453901fc2a4a178240f2ef402abf66, DIRECT, 83e75a7ae333ca9d
