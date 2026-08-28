@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/26/2026 17:42 PM MTD
+#last updated: 08/28/2026 14:08 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -14386,7 +14386,7 @@ rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 adagio.io, 1522, RESELLER
 conversantmedia.com, 100886, RESELLER, 03113cd04947736d
-smartadserver.com, 3713, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 rubiconproject.com, 27136, RESELLER, 0bfd66d529a55807
 adingenious.com, 75075, RESELLER
 media.net, 8CUSC3UJ7, RESELLER, 818f58666cabc936
@@ -14416,10 +14416,12 @@ lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 551525, RESELLER, fafdf38b16bf6b2b
 adform.com, 3393, RESELLER, 9f5210a2f0999e32
 yango-ads.com, 106549109, DIRECT
+yango-ads.com, 330357335, DIRECT
 sonobi.com, 97e60f3067, RESELLER, d1a215d9eb5aee9e
 bidmachine.io, 1201, RESELLER
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 yandex.com, 106549109, DIRECT
+yandex.com, 330357335, DIRECT
 admanmedia.com, 647, RESELLER
 bold-win.com, 1080, RESELLER, 71746737d0bab951
 zetaglobal.net, 689, RESELLER
@@ -14440,11 +14442,9 @@ triplelift.com, 11457, RESELLER, 6c33edb13117fd86
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 themediagrid.com, BRDHNJ, RESELLER, 35d5010d7789b49d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
-video.unrulymedia.com, 3948367200, RESELLER
 zmaticoo.com, 114122, RESELLER
 onetag.com, 9474378cb253f54, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
-smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smaato.com, 1100059831, RESELLER, 07bcf65f187117b4
 33across.com, 001Pg00001B6I27IAF, RESELLER, bbea06d9c4d2853c
 axonix.com, 59143, RESELLER
@@ -14461,6 +14461,7 @@ pubmatic.com, 165864, RESELLER, 5d62403b186f2ace
 bold-win.com, 1145, RESELLER, 71746737d0bab951
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 spinx.biz, 1373698890, RESELLER
+spinx.biz, 1373698900, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 orbrx.ai, 8000869124, RESELLER
 
