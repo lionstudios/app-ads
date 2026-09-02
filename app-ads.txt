@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 08/28/2026 14:08 PM MTD
+#last updated: 9/2/2026 14:58 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1511,6 +1511,21 @@ themediagrid.com, KH6MJT, RESELLER, 35d5010d7789b49d
 adorphic.com, 3197, DIRECT
 
 #adsyield
+adsyield.com, 1042, DIRECT
+adagio.io, 1610, RESELLER
+adform.com, 3167, RESELLER, 9f5210a2f0999e32
+empower.net, 64ccc216e4b0833d96ec3708, DIRECT
+google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
+flat-ads.com, 320000, RESELLER
+improvedigital.com, 2320, RESELLER
+onetag.com, 7d9af0b85b5070e, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
+lijit.com, 292974, RESELLER, fafdf38b16bf6b2b
+inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
+flashb.id, 1da82159-2b50-5fb2-87d7-1ed7fa52a44d, RESELLER
+viously.com, c59e0dab-4e06-5ce9-be3e-22687d15f72a, RESELLER
 
 #amazon
 aps.amazon.com,b1598423-cb0c-4a5e-bafb-6ab071a3e8b8,DIRECT
@@ -8726,6 +8741,28 @@ yieldmo.com, 2719019867620450718, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 546, RESELLER
 zetaglobal.net, 891, RESELLER
+adyoulike.com, 555e2711ab0a880b922eb2c65c19fe22, RESELLER
+apexflowsdk.com, 98873, RESELLER, c04b215ax
+appnexus.com, 3741, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 101282, RESELLER
+eskimi.com, 2020001289, RESELLER
+google.com, pub-7756262923332577, RESELLER, f08c47fec0942fa0
+insticator.com, 73dd4dc1-989d-4a4c-ae33-0b3d826dbc53, RESELLER, b3511ffcafb23a32
+insticator.com, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, RESELLER, b3511ffcafb23a32
+lijit.com, 595809, DIRECT, fafdf38b16bf6b2b
+media.net, 8CURB3EY7, RESELLER
+ogury.com, 13245a85-9158-46ec-be6b-c420cd62dd55, RESELLER
+ogury.com, 5bbe7af9-d51f-499e-a804-db54798d96f4, RESELLER
+oko.uk, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, RESELLER, b3511ffcafb23a32
+onetag.com, 969f41d776e4d69, DIRECT
+pgamssp.com, 68c4001c1f2f47a67403c3f7, RESELLER
+revealon.media, 19162, DIRECT
+revealon.media, 19161, DIRECT
+revealon.media, 19160, DIRECT
+themediagrid.com, U9FDTX, RESELLER, 35d5010d7789b49d
+triplelift.com, 13686, RESELLER, 6c33edb13117fd86
+triplelift.com, 13686-EB, RESELLER, 6c33edb13117fd86
+wecallmedia.com, 1080, DIRECT
 
 #googleadmanager
 google.com, pub-4140699128364550, DIRECT, f08c47fec0942fa0
