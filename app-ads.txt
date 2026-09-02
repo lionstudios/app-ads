@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/2/2026 14:58 PM MTD
+#last updated: 9/2/2026 17:54 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -6536,6 +6536,7 @@ consumable.com, 2001647, RESELLER, aefcd3d2f45b5070
 smaato.com, 1100059476, RESELLER, 07bcf65f187117b4
 bidmachine.io, 258, RESELLER
 algorix.co, 604540, RESELLER, 5b394c12fea27a1d
+triplelift.com, 14865, RESELLER, 6c33edb13117fd86
 
 #chartboost
 chartboost.com, 5dc49a81c4d80c0a35b695de, DIRECT
