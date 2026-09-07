@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/2/2026 17:54 PM MTD
+#last updated: 9/7/2026 12:46 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -7834,6 +7834,15 @@ datacygnal.io,14481346,RESELLER
 shinka.io,1000003,RESELLER,a9bd8fda17435929
 triplelift.com,14821,RESELLER,6c33edb13117fd86
 triplelift.com,14821-EB,RESELLER,6c33edb13117fd86
+admanmedia.com,2433,RESELLER
+freewheel.tv,535400-r-523319,RESELLER,74e8e47458f74754
+lemmatechnologies.com,2448,RESELLER,7829010c5bebd1fb
+onlinemediasolutions.com,43235,RESELLER,b3868b187e4b6402
+openx.com,566769495,RESELLER,6a698e2ec38604c6
+qntv.io,11820526,RESELLER
+smaato.com,1100046578,RESELLER,07bcf65f187117b4
+start.io,170705356,RESELLER
+verve.com,1008379,RESELLER,0c8f5958fc2d6270
 
 #gadsme
 inventorypartnerdomain=gadsme.com
