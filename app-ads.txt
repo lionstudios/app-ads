@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/7/2026 12:46 PM MTD
+#last updated: 9/7/2026 13:09 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -14267,6 +14267,7 @@ adyoulike.com,e6a5125bb342550036f9e4aebefaacde, RESELLER, 4ad745ead2958bf7
 bidfuse.com, 4, RESELLER
 adyoulike.com, 79af5ae2d4b09780b36e7bac0b0358ce, RESELLER, 4ad745ead2958bf7
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33152, RESELLER
+pubmatic.com, 168105, RESELLER, 5d62403b186f2ace
 
 #vrtcal
 vrtcal.com, 474, DIRECT, c6daee9168853e2d
