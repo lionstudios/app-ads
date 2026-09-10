@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/10/2026 16:17 PM MTD
+#last updated: 9/10/2026 16:29 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1609,6 +1609,14 @@ eskimi.com,2020000006,RESELLER
 Gravite.net,363e5216d97c5d3a1b0b8bed7a5929b0,RESELLER
 admatic.de,ade-pub-360095241,RESELLER
 admatic.com.tr,ade-pub-360095241,RESELLER
+gitberry.com,615100021,RESELLER
+tenxads.com,2058,RESELLER
+tradplusad.com,78111e57437abea7,RESELLER
+uis.mobfox.com,2588,RESELLER,5529a3d1f59865be
+bidstrade.com,8725,RESELLER
+copper6.com,766235,RESELLER
+risecodes.com,65509b2e58df6d00013c42a7,RESELLER
+aceex.io,2753,RESELLER
 
 #applovin
 applovin.com, 73b7784722bfc9231bdcca4634c3cab5, DIRECT
