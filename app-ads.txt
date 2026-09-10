@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/10/2026 15:34 PM MTD
+#last updated: 9/10/2026 16:17 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -11183,6 +11183,10 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3704396951, RESELLER
 xad.com, 2524, RESELLER, 81cbf0a75a5e0e9a
 zmaticoo.com, 5135981, RESELLER
+admanmedia.com, 2441, RESELLER
+apexflowsdk.com, 1212, RESELLER, c04b215ax
+thunder-monetize.com, 6329293809, RESELLER
+zeta.com, 664, RESELLER
 
 #nexxen/iion
 Main account -
