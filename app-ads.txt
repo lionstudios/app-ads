@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/15/2026 17:50 PM MTD
+#last updated: 9/17/2026 12:09 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -351,6 +351,19 @@ pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
 triplelift.com, 14848, RESELLER, 6c33edb13117fd86
 triplelift.com, 14852, RESELLER, 6c33edb13117fd86
 triplelift.com, 14852-EB, RESELLER, 6c33edb13117fd86
+globalsun.io, PUB2873441, DIRECT
+Pubmatic.com, 165166, RESELLER, 5d62403b186f2ace
+imds.tv, 82766, DIRECT, ae6c32151e71f19d
+advertising.com, 82766, DIRECT, ae6c32151e71f19d
+33across.com, 0015a00002fO3V4AAK, DIRECT, bbea06d9c4d2853c
+triplelift.com, 14873, DIRECT, 6c33edb13117fd86 #first
+openx.com, 539703583, RESELLER, 6a698e2ec38604c6
+openx.com, 540717761, RESELLER, 6a698e2ec38604c6
+openx.com, 539696980, RESELLER, 6a698e2ec38604c6
+wovenaudience.com, 1023, DIRECT
+lijit.com, 613988, DIRECT, fafdf38b16bf6b2b
+openx.com, 603745295, RESELLER, 6a698e2ec38604c6
+triplelift.com, 14858, RESELLER, 6c33edb13117fd86
 
 #adjoe
 adjoe-programmatic.com, a3e7d446-647b-4f4e-a001-83c8b7a48801, DIRECT
