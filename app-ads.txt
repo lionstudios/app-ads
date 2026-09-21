@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/18/2026 11:55 PM MTD
+#last updated: 9/21/2026 14:50 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -6670,6 +6670,8 @@ smaato.com, 1100059476, RESELLER, 07bcf65f187117b4
 bidmachine.io, 258, RESELLER
 algorix.co, 604540, RESELLER, 5b394c12fea27a1d
 triplelift.com, 14865, RESELLER, 6c33edb13117fd86
+omni-dex.io, 100108, RESELLER
+insticator.com,4022291c-df72-416d-98ba-ab42fb0696d3,RESELLER,b3511ffcafb23a32
 
 #chartboost
 chartboost.com, 5dc49a81c4d80c0a35b695de, DIRECT
