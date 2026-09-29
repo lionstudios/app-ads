@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/28/2026 14:05 PM MTD
+#last updated: 9/29/2026 16:00 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -14961,3 +14961,20 @@ orbrx.ai, 8000869124, RESELLER
 
 #yieldmo
 yieldmo.com, 3752597271070318970, direct
+
+#188group
+pmbmonetize.com, lionsads, DIRECT
+opamarketplace.com, lionsads, DIRECT
+smartadline.com, lionsads, DIRECT
+copper6.com, 22637865111, DIRECT
+omgstudios.com, 22637865111, DIRECT
+optimovid.com, lionsads, DIRECT
+google.com, pub-4104675640276663, RESELLER, f08c47fec0942fa0
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
+google.com, pub-9857612698505806, RESELLER, f08c47fec0942fa0
+google.com, pub-6687404680710362, RESELLER, f08c47fec0942fa0
