@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 9/29/2026 16:00 PM MTD
+#last updated: 10/5/2026 15:38 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -7999,6 +7999,10 @@ qntv.io,11820526,RESELLER
 smaato.com,1100046578,RESELLER,07bcf65f187117b4
 start.io,170705356,RESELLER
 verve.com,1008379,RESELLER,0c8f5958fc2d6270
+bigo.sg,swk4ojxh3p,RESELLER
+media.net,8CA6JUFYM,RESELLER,818f58666cabc936
+adagio.io,1724,RESELLER
+pubnative.net,1018294,RESELLER,d641df8625486a7b
 
 #gadsme
 inventorypartnerdomain=gadsme.com
