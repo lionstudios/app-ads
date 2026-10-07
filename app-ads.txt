@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/6/2026 16:48 PM MTD
+#last updated: 10/7/2026 14:51 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -10924,6 +10924,19 @@ improvedigital.com, 2836, RESELLER
 video.unrulymedia.com, 468729161, RESELLER
 dauup.com, 34138, RESELLER, 4daba13e2b0dfd92
 pgamssp.com, 65c4dab8199399cda607f238, RESELLER
+pokkt.com, 8785, DIRECT, c45702d9311e25fd
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
+volantisdigital.com, 100000, DIRECT
+pubmatic.com,161066,RESELLER,5d62403b186f2ace
+pubmatic.com, 165202, RESELLER, 5d62403b186f2ace
+magicbid.ai,1062026174925550, DIRECT
+rubiconproject.com, 27558, RESELLER, 0bfd66d529a55807
+pubmatic.com, 166273, RESELLER, 5d62403b186f2ace
+auxoads.com, IA100, DIRECT
+rubiconproject.com, 22554, RESELLER, 0bfd66d529a55807
+datawrkz.com, 20000000, DIRECT
+pubmatic.com, 164373, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13732, RESELLER, 0bfd66d529a55807
 
 #makroo
 google.com, pub-9941782557387032, RESELLER, f08c47fec0942fa0
