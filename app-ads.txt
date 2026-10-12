@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/7/2026 14:51 PM MTD
+#last updated: 10/12/2026 18:24 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1684,7 +1684,6 @@ applovin.com, 8ac24ff81ce53d2402d3373c4b1a55ba, DIRECT
 applovin.com, f596d29752f20f1f45d62ee2a41171eb, DIRECT
 applovin.com, 0028a0fb66edab8826842891ed925192, DIRECT
 applovin.com, bdc21abe6fe38160353f1e484cd39bff, DIRECT
-applovin.com, a70bc9e5d92f4bb68708778bc384accb, DIRECT
 applovin.com, b623deb17af59742c77600a11ca65088, DIRECT
 applovin.com, 160766afae58e176876a35139a12682f, DIRECT
 applovin.com, d0c3f6116fe8805ae1df93fbd8e1a7b2, DIRECT
@@ -1746,7 +1745,6 @@ applovin.com, 129ad66889e6b57b3a9be7053623bc25, DIRECT
 applovin.com, 99f220159e09016e84bd481f40f32c67, DIRECT
 applovin.com, 1e969b1276793c2fe5752547df56535c, DIRECT
 applovin.com, 4d86e75dbf484f7a54c98d0c307d3fe8, DIRECT
-applovin.com, f3a93bfd5f9df7bd004b55d9d91aade2, DIRECT
 applovin.com, 8c85dce74c6a7df18fdf13d8079f1ccc, DIRECT
 applovin.com, 21b60473e8a6ec0ca2cb0b32d2773e0d, DIRECT
 applovin.com, f9c3321f97ba908807871f36a014a181, DIRECT
@@ -2271,7 +2269,6 @@ applovin.com, d0059b5f69ded4d06518b50e5b0a8c5a, DIRECT
 applovin.com, 81aad76944d121b91e37295751aed4d4, DIRECT
 applovin.com, 69df85f3ec4cb426909563af3c3fa1db, DIRECT
 applovin.com, 02485fa0c6f80245845518e135225c90, DIRECT
-applovin.com, 4ebc36da2980feb81243a0c5e2daceea, DIRECT
 applovin.com, e6cec083741bd9ff72142ed7d34b01f2, DIRECT
 applovin.com, 6fc886bf6f7c07afabd58913b779e0bf, DIRECT
 applovin.com, 08a8d0ef582eeeaffc18a33cdb8db25e, DIRECT
@@ -2424,9 +2421,7 @@ applovin.com, e6173d7e797e1f80dd4a8bca977574d8, DIRECT
 applovin.com, fd3da73264ab5e937f40125bf34f2397, DIRECT
 applovin.com, 3d6a4a9c8761b90070db96e2128520d4, DIRECT
 applovin.com, 51f84bdbaafb4822c5376744e9e9b911, DIRECT
-applovin.com, 021fe0fb47aaea25f480efa4dfc48590, DIRECT
 applovin.com, 3a04281bcd7a2a4f26a5e4d6890c6292, DIRECT
-applovin.com, a423ac9209244dd512aedfa67f376f7d, DIRECT
 applovin.com, 151bb335b287270961a3c3eb8b67317f, DIRECT
 applovin.com, 07bf31636e0fa971539157799cd92712, DIRECT
 applovin.com, 5378a18878b69e4020b0a37150d183c5, DIRECT
@@ -2478,7 +2473,6 @@ applovin.com, 61b077cc82c5bb1a29615f5da1e13e6c, DIRECT
 applovin.com, 9dc33e887a2aa8e77e4e65ee112c19c1, DIRECT
 applovin.com, aca91db926af1e37eff8edc4d86d328c, DIRECT
 applovin.com, 2b21f9ee8e5980988054907b58fd7dec, DIRECT
-applovin.com, ad96086d778ef72cdf9820af40381355, DIRECT
 applovin.com, 409bc0cfdbf4ccd0d46a5e4b039f85d1, DIRECT
 applovin.com, ca14e5e74609b4996a1539eab17fbce7, DIRECT
 applovin.com, a6a3e06dbc513f10f333bf5331d8e9d0, DIRECT
@@ -2626,7 +2620,6 @@ applovin.com, 1ad4217abe6cfeebaebdca2f7bf1787e, DIRECT
 applovin.com, acca170c48d993f999300cbcb3bc4806, DIRECT
 applovin.com, 65376acddc98996ee6375667316bba07, DIRECT
 applovin.com, f84106e65f05066a529a354b468c8dc2, DIRECT
-applovin.com, 8077ccc3e67eef2dd9bf18b43852250d, DIRECT
 applovin.com, 9d3c447301e9974cb30669595d4942cb, DIRECT
 applovin.com, 50364b219becc9552ebb20114ec4051f, DIRECT
 applovin.com, 4bad37cea0b2f29c1183d2ada899b865, DIRECT
@@ -2756,6 +2749,8 @@ applovin.com, dc0d8618c64e1c704f8a9bd96f85e25e, DIRECT
 applovin.com, e56353cca223c60504329bd79e4ecf1b, DIRECT
 applovin.com, e7f52552b69be46583c0d98e2edd9056, DIRECT
 applovin.com, fcf6977146c7747c1ebce56b17a1feda, DIRECT
+bigo.sg, qyfoptvec9, RESELLER
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
 
 #archonph
 # google
