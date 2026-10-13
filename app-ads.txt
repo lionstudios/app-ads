@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/12/2026 18:24 PM MTD
+#last updated: 10/13/2026 15:08 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -256,7 +256,6 @@ selectmedia.asia,22703897216,RESELLER,e365c871a27c655d
 adagio.io, 1224, RESELLER
 smilewanted.com, 5616, RESELLER
 themediagrid.com, HGN8TK, RESELLER, 35d5010d7789b49d
-Media.net, 8CU4FR18I, DIRECT // APP
 pubmatic.com,157288,RESELLER,5d62403b186f2ace
 rubiconproject.com, 25512, RESELLER, 0bfd66d529a55807
 media.net,8cuh5vf7j,RESELLER
@@ -268,7 +267,6 @@ lijit.com, 555140, DIRECT, fafdf38b16bf6b2b #SOVRN
 adyoulike.com, 0ea8ad779bbc631cae3be37fb39d790d, DIRECT
 adyoulike.com, ae261014a4a3351ddf56658ca673135e, DIRECT
 themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
-omgstudios, lion, DIRECT
 themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
 pubmatic.com, 163283, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163282, RESELLER, 5d62403b186f2ace
@@ -1296,7 +1294,7 @@ loopme.com, 11594, RESELLER, 6c8d5f95897a5a3b
 improvedigital.com, 2226, RESELLER
 pubmatic.com, 163091, RESELLER, 5d62403b186f2ace
 smartadserver.com, 4618, RESELLER, 060d053dcf45cbf3
-Media.net, 8CUT8CWB6, RESELLER
+media.net, 8CUT8CWB6, RESELLER
 admixer.net, b72d403d-e25e-4bc7-ad9c-6e929a66f502, RESELLER
 algorix.co, 604537, RESELLER, 5b394c12fea27a1d
 rubiconproject.com, 25322, RESELLER, 0bfd66d529a55807
@@ -1498,8 +1496,8 @@ Minutemedia.com, 01g5e8cp7h8g, DIRECT
 9dotsmedia.com,4518, DIRECT
 9dotsmedia.com,4519, DIRECT
 9dotsmedia.com,122270, DIRECT
-http://Media.net , 8CU281R16, RESELLER
-http://Media.net , 8CU82Q277, RESELLER
+media.net, 8CU281R16, RESELLER
+media.net, 8CU82Q277, RESELLER
 nativo.com, 5947, RESELLER, 59521ca7cc5e9fee
 triplelift.com, 10389, RESELLER, 6c33edb13117fd86
 zetaglobal.net, 738, RESELLER
@@ -1553,7 +1551,6 @@ beachfront.com,14804,RESELLER,e2541279e8e2ca4d
 improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
 mobilefuse.com,4077,DIRECT
-smaato.com,000000,DIRECT,07bcf65f187117b4
 triplelift.com,8614,DIRECT,6c33edb13117fd86
 verve.com,2407313,DIRECT
 media.net,8CU1YF1Z4,DIRECT
@@ -2855,7 +2852,7 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
-yahoo.com, 58905, RESELLER e1a5b5b6e3255540
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 aol.com, 58905, RESELLER, e1a5b5b6e3255540
 reforge.in,83,DIRECT
 reforge.in,409,DIRECT
@@ -4701,7 +4698,6 @@ lijit.com,543917,DIRECT,fafdf38b16bf6b2b
 lijit.com,544061,DIRECT,fafdf38b16bf6b2b
 pubmatic.com,161891,RESELLER,5d62403b186f2ace
 sharethrough.com,5951,RESELLER,d53b998a7bd4ecd2
-lemmatechnologies,1844,RESELLER
 google.com,pub-2754628096011277,RESELLER
 smartadserver.com,5951,RESELLER
 video.unrulymedia.com,945850775,RESELLER,98c21ef9a666c68b
@@ -11995,9 +11991,7 @@ thunder-monetize.com, 6329293809, RESELLER
 zeta.com, 664, RESELLER
 
 #nexxen/iion
-Main account -
 video.unrulymedia.com, 855915555, DIRECT, 98c21ef9a666c68b
-OB Account:
 video.unrulymedia.com, 422652310, RESELLER, 98c21ef9a666c68b
 triplelift.com, 14551, RESELLER, 6c33edb13117fd86
 
@@ -12331,7 +12325,7 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
-uis.mobfox.com, 2310, RESELLER 5529a3d1f59865be
+uis.mobfox.com, 2310, RESELLER, 5529a3d1f59865be
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 inmobi.com, bfe203493be74a45917b0993b9a74596, DIRECT, 83e75a7ae333ca9d
@@ -12821,7 +12815,7 @@ zetaglobal.net, 808, RESELLER
 adyoulike.com, ff5fc9a322b4a4fe5a762ca97f9673e3, RESELLER
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 growintech.co, 2723d092b63885e0d7c260cc007e8b9d81642, RESELLER, 9d8dfe5c6b00fb37
-apexflowsdk.com, 1083, RESLLER
+apexflowsdk.com, 1083, RESELLER
 rubiconproject.com, 28075, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 817753694, RESELLER
 adwmg.com, 101277, RESELLER, c9688a22012618e7
@@ -14200,7 +14194,7 @@ yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+omgstudios.com, 270520254, RESELLER
 video.unrulymedia.com, 645663965, RESELLER
 admanmedia.com, 2050, RESELLER
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
@@ -15020,7 +15014,7 @@ improvedigital.com, 2836, RESELLER
 onetag.com, 61d88450bdb25bc, RESELLER
 supply.colossusssp.com, 892, RESELLER
 rubiconproject.com, 28075, RESELLER, 0bfd66d529a55807
-triplelift.com, 14744, RESELER, 6c33edb13117fd86
+triplelift.com, 14744, RESELLER, 6c33edb13117fd86
 lijit.com, 510710, RESELLER, fafdf38b16bf6b2b
 pgamssp.com, 69a5d5c4d1f5f685e7085234, RESELLER
 x.adprime.com, AJxF6R81a9M6CaTvK, RESELLER
@@ -15034,7 +15028,6 @@ sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 onetag.com, 95b3718ec52c228, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
-Media.net, 8CUGG4P7J, RESELLER - oRTB
 nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
 admagnetix.io, 202141, RESELLER
 conversantmedia.com, 42094, RESELLER, 03113cd04947736d
@@ -15043,7 +15036,7 @@ consumable.com, 2001446, RESELLER, aefcd3d2f45b5070
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
-anzu.io, 69a420eee7eb8625463ab28b,RESELLER;
+anzu.io, 69a420eee7eb8625463ab28b, RESELLER
 kueez.com, 70e6362cca2ca92037fc0efea41e25a3, RESELLER
 iion.io, 10154, RESELLER, 013a29748465dc57
 betweendigital.com, 47402, RESELLER
@@ -15059,8 +15052,8 @@ emxdgt.com, 1805, RESELLER, 1e1d41537f7cad7f
 rtbmax.com, 6719ebb7d23d2293c239826b, RESELLER
 iqzone.com, IQ46, RESELLER
 freewheel.tv, 536152-r-524565, RESELLER
-adsmartx.ai, 729329, RESELLER - $3000
-omgstudios.com, 270520254, RESELLER - $3000
+adsmartx.ai, 729329, RESELLER
+omgstudios.com, 270520254, RESELLER
 zetaglobal.net, 642, RESELLER
 improvedigital.com, 2853, RESELLER
 pubmatic.com, 167104, RESELLER, 5d62403b186f2ace
