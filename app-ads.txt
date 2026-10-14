@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/13/2026 15:08 PM MTD
+#last updated: 10/14/2026 10:49 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -5852,6 +5852,74 @@ adagio.io,1620,RESELLER
 sharethrough.com,5044,RESELLER,d53b998a7bd4ecd2
 flashb.id,e996267a-649c-5a2f-b833-d36a3cf09936,RESELLER
 improvedigital.com,2724,RESELLER
+lunamedia.io,b95d31e8-7a46-4fc2-8e13-c6a7402d9f85,RESELLER,524ecb396915caaf
+anzu.io,6a82f0f55cbd5fbb8208563a,RESELLER,1c1b7acf4992136c
+betweendigital.com,47040,RESELLER
+anzu.io,695bba678f0e5ae09b6756d6,RESELLER,1c1b7acf4992136c
+toponad.com,1665e859b8fee4,RESELLER,1d49fe424a1a456d
+rtbhouse.com,iRPTQyGW4ZqYn8RfMGcN,RESELLER
+bematterfull.com,4d1e2910-f228-4bbd-a678-40415bb4d699,RESELLER
+admanmedia.com,2470,RESELLER
+freewheel.tv,sg1332502,RESELLER,74e8e47458f74754
+wovenaudience.com,1020,RESELLER
+themediagrid.com,G1Q94U,RESELLER,9fac4a4a87c2a44f
+lunamedia.io,5faed6a9-d39b-456a-9bea-60b6a8763fa7,RESELLER,524ecb396915caaf
+betweendigital.com,45685,RESELLER
+admatic.de,ade-pub-67f5052212076807712c1d54,RESELLER
+smilewanted.com,5902,RESELLER
+wovenaudience.com,1014,RESELLER
+omni-dex.io,100119,RESELLER
+adgrid.io,378367,RESELLER
+visiblemeasures.com, 2402, RESELLER
+xandr.com, 18048, RESELLER
+minutemedia.com, 01ky50t6qtdq, RESELLER
+insticator.com, 7184c7ca-645a-4e0f-a78c-6d5822b3449f, RESELLER, b3511ffcafb23a32
+smilewanted.com,5203,RESELLER
+risecodes.com,6a4376bd36870a0001a4d265,RESELLER,79929e88b2ba73bc
+admixer.net,673e915b-6eb0-478f-a113-c386b09f0cf3,RESELLER
+triplelift.com,14855,RESELLER,6c33edb13117fd86
+kickstartmyad.com,23288953462,RESELLER
+smaato.com,1100006659,RESELLER,07bcf65f187117b4
+seedtag.com,6a8495f8f228bc0007dad9eb,RESELLER
+sharethrough.com,4288,RESELLER,d53b998a7bd4ecd2
+bluexad.ai,2087794081592774656,RESELLER
+smaato.com,1100060463,RESELLER,07bcf65f187117b4
+pubnative.net,1018312,RESELLER,d641df8625486a7b
+triplelift.com,14823,RESELLER,6c33edb13117fd86
+pubnative.net,1017349,RESELLER,d641df8625486a7b
+bigo.sg,871,RESELLER
+lijit.com,596629,RESELLER,fafdf38b16bf6b2b
+algorix.co,604559,RESELLER
+pubmatic.com,164567,RESELLER,5d62403b186f2ace
+admatic.de,ade-pub-13139726,RESELLER
+openx.com,561968148,RESELLER,6a698e2ec38604c6
+risecodes.com,6a97f95317f0d50001b09efd,RESELLER,79929e88b2ba73bc
+loopme.com,22038,RESELLER,6c8d5f95897a5a3b
+truvid.com,2734,RESELLER
+nativo.com,6160,RESELLER
+copper6.com,766223,RESELLER
+adwmg.com,159538,RESELLER,c9688a22012618e7
+openx.com,609660800,RESELLER,6a698e2ec38604c6
+start.io,135168626,RESELLER
+video.unrulymedia.com,3486482593,RESELLER,98c21ef9a666c68b
+trustedstack.com,TSV0HMSUU,RESELLER
+outbrain.com,003fbde86b97b0dcb49d0c4a6ee72c3001,RESELLER,0f386b90a31b81ee
+oko.uk,f9b0c2a8-eb07-4a88-9b89-747d7bf2524f,RESELLER
+rubiconproject.com,17430,RESELLER,0bfd66d529a55807
+admatic.de,ade-pub-850647473,RESELLER
+33across.com,001Pg000006oOlnIAE,RESELLER,bbea06d9c4d2853c
+trustedstack.com,TSX326Z4K,RESELLER
+richaudience.com,IzJp6ykuQS,RESELLER
+smartadserver.com,5399,RESELLER
+freewheel.tv,548888-r-523319,RESELLER,74e8e47458f74754
+kueez.com,16d7fe58bd91b6d74a84e0c209ba3296,RESELLER
+opera.com,pub13152998147264,RESELLER,55a0c5fd61378de3
+onetag.com,8d46fcaa65d68c7,RESELLER
+omni-dex.io,100121,RESELLER
+gravite.net,7b16df31d5f52c4883263f986d757ed7,RESELLER
+insticator.com,f9b0c2a8-eb07-4a88-9b89-747d7bf2524f,RESELLER,b3511ffcafb23a32
+adsinteractive.com,80101112,RESELLER
+freewheel.tv,548888-r-524565,RESELLER,74e8e47458f74754
 
 #bigoads
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
