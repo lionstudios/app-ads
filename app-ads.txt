@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/14/2026 10:49 PM MTD
+#last updated: 10/19/2026 11:50 AM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -1568,7 +1568,6 @@ smartadserver.com,5749,DIRECT,060d053dcf45cbf3
 thebrave.io,1234845,DIRECT,c25b2154543746ac
 
 #Anzu
-managerdomain=anzu.io,in-game
 anzu.io,67ab25c92b15e6a94384858e,DIRECT,1c1b7acf4992136c
 opera.com,pub10083924095168,RESELLER,55a0c5fd61378de3
 toponad.com,16952276e6b818,RESELLER,1d49fe424a1a456d
@@ -8154,7 +8153,6 @@ adagio.io,1724,RESELLER
 pubnative.net,1018294,RESELLER,d641df8625486a7b
 
 #gadsme
-inventorypartnerdomain=gadsme.com
 gadsme.com, cknaboke1197000vaxppfblaht, DIRECT, 6e0ed2d8104a4234
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
@@ -15506,3 +15504,4 @@ google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
 google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
 google.com, pub-9857612698505806, RESELLER, f08c47fec0942fa0
 google.com, pub-6687404680710362, RESELLER, f08c47fec0942fa0
+
