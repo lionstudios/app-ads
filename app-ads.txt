@@ -1,6 +1,6 @@
 OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
-#last updated: 10/19/2026 11:50 AM MTD
+#last updated: 10/21/2026 3 PM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -12934,6 +12934,10 @@ adform.com, 3428, RESELLER, 9f5210a2f0999e32
 adform.com, 3429, RESELLER, 9f5210a2f0999e32
 indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
 growone.sg, 108b7d5328f7442cd7e19c4463d7ff8d, RESELLER
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
+freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
+freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
 
 #triplelift
 triplelift.com,13579-EB,DIRECT, 6c33edb13117fd86
@@ -15504,4 +15508,3 @@ google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
 google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
 google.com, pub-9857612698505806, RESELLER, f08c47fec0942fa0
 google.com, pub-6687404680710362, RESELLER, f08c47fec0942fa0
-
