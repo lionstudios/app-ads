@@ -1,6 +1,4 @@
-OWNERDOMAIN=lionstudios.cc
-#lionstudios.cc/app-ads.txt
-#last updated: 10/21/2026 3 PM MTD
+#last updated: 10/22/2026 10 AM MTD
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -12072,6 +12070,9 @@ dauup.com, 34141, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+
+OWNERDOMAIN=lionstudios.cc
+#lionstudios.cc/app-ads.txt
 
 #openx
 
