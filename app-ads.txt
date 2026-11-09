@@ -9848,7 +9848,6 @@ tredio.io, 357A6FDF7642BF815A88822C447D9DC437127, RESELLER
 risecodes.com, 67D9A758597E640001744AF3, RESELLER
 
 #ironsource
-OWNERDOMAIN=lionstudios.cc
 ironsrc.com, 232331, Direct
 blueseasx.com, 203625, RESELLER
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
@@ -12033,7 +12032,6 @@ bigo.sg, q9hk29ki8d, RESELLER
 pubnative.net, 1018294, RESELLER, d641df8625486a7b
 
 #mobilefuse
-OWNERDOMAIN=lionstudios.cc
 mobilefuse.com, 4077, DIRECT, 71e88b065d69c021
 anzu.io, 69444a204113b23cb8d7c13d, RESELLER, 1c1b7acf4992136c
 appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
@@ -12081,7 +12079,6 @@ thebrave.io, 1234746, RESELLER, c25b2154543746ac
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 
-OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
 
 #openx
