@@ -1,5 +1,5 @@
-OWNERDOMAIN=lionstudios.com
-#last updated: 11/03/2026 530 PM MST
+OWNERDOMAIN=lionstudios.cc
+#last updated: 11/11/2026 1200 PM MST
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -8,7 +8,6 @@ indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
 pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
 sharethrough.com, Uc8GWHvM, DIRECT, d53b998a7bd4ecd2
 pubmatic.com, 156557, RESELLER
-themediagrid.com, ZI54NS, RESELLER, 9fac4a4a87c2a44f
 pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
 rubiconproject.co, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
@@ -9846,8 +9845,19 @@ gitberry.com, 815100012, RESELLER
 dauup.com, 34218, RESELLER, 4DABA13E2B0DFD92
 tredio.io, 357A6FDF7642BF815A88822C447D9DC437127, RESELLER
 risecodes.com, 67D9A758597E640001744AF3, RESELLER
+loopme.com, 13959, RESELLER, 6c8d5f95897a5a3b
+metup.it, AJxF6R130a9M6CaTvK, RESELLER
+smaato.com, 1100060308, RESELLER, 07bcf65f187117b4
+adsinteractive.com, 11011, RESELLER
+33across.com, 001Pg00002OYbzEIAT, RESELLER, bbea06d9c4d2853c
+taurusx.com, 80667, RESELLER
+pubnative.net, 1018378, RESELLER, d641df8625486a7b
+pubnative.net, 1018413, RESELLER, d641df8625486a7b
+apester.com, 1025, RESELLER
+genieesspv.jp, s14, RESELLER
 
 #ironsource
+OWNERDOMAIN=lionstudios.cc
 ironsrc.com, 232331, Direct
 blueseasx.com, 203625, RESELLER
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
@@ -12032,6 +12042,7 @@ bigo.sg, q9hk29ki8d, RESELLER
 pubnative.net, 1018294, RESELLER, d641df8625486a7b
 
 #mobilefuse
+OWNERDOMAIN=lionstudios.cc
 mobilefuse.com, 4077, DIRECT, 71e88b065d69c021
 anzu.io, 69444a204113b23cb8d7c13d, RESELLER, 1c1b7acf4992136c
 appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
@@ -12079,6 +12090,7 @@ thebrave.io, 1234746, RESELLER, c25b2154543746ac
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 
+OWNERDOMAIN=lionstudios.cc
 #lionstudios.cc/app-ads.txt
 
 #openx
@@ -15253,6 +15265,7 @@ bidfuse.com, 4, RESELLER
 adyoulike.com, 79af5ae2d4b09780b36e7bac0b0358ce, RESELLER, 4ad745ead2958bf7
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33152, RESELLER
 pubmatic.com, 168105, RESELLER, 5d62403b186f2ace
+themediagrid.com, ZI54NS, RESELLER, 9fac4a4a87c2a44f
 
 #vrtcal
 vrtcal.com, 474, DIRECT, c6daee9168853e2d
