@@ -1,5 +1,5 @@
 OWNERDOMAIN=lionstudios.cc
-#last updated: 11/11/2026 1200 PM MST
+#last updated: 11/13/2026 0100 PM MST
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -12967,6 +12967,24 @@ indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
 freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
 freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
+thunder-monetize.ai, 59e4c6073113420faf3b12d03cc47ec7, DIRECT
+thunder-monetize.io, 59cce6451a754a0386bbc68e0e4f16e5, DIRECT
+appsheep.ai, 29d850f8f71a4b4aa96b493d5530dc37, DIRECT
+appsheep.io, 2daf60a5c5a64cb3a49d0b15b73e7afc, DIRECT
+improvedigital.com, 3001, RESELLER
+improvedigital.com, 3000, RESELLER
+improvedigital.com, 2999, RESELLER
+improvedigital.com, 2998, RESELLER
+leiji.ai, aae684dd228d4bf8b3f240fc43f60b81, DIRECT
+leiji.io, 055af92739074aa9ae3d36bbb892d556, DIRECT
+media.net, 8CA50TT5J, RESELLER, 818f58666cabc936
+media.net, 8CAW31T3F, RESELLER, 818f58666cabc936
+triplelift.com, 14943, RESELLER, 6c33edb13117fd86
+triplelift.com, 14944, RESELLER, 6c33edb13117fd86
+improvedigital.com, 3023, DIRECT
+improvedigital.com, 3067, RESELLER
+improvedigital.com, 3068, RESELLER
+improvedigital.com, 3065, RESELLER
 
 #triplelift
 triplelift.com,13579-EB,DIRECT, 6c33edb13117fd86
