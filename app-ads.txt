@@ -1,5 +1,5 @@
 OWNERDOMAIN=lionstudios.cc
-#last updated: 11/13/2026 0100 PM MST
+#last updated: 11/19/2026 0900 AM MST
 
 #a4g
 a4g.com, 13867, DIRECT
@@ -11005,6 +11005,8 @@ rubiconproject.com, 22554, RESELLER, 0bfd66d529a55807
 datawrkz.com, 20000000, DIRECT
 pubmatic.com, 164373, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13732, RESELLER, 0bfd66d529a55807
+freewheel.tv, 545629-r-524565, RESELLER, 74e8e47458f74754
+freewheel.tv, 545629-r-523319, RESELLER, 74e8e47458f74754
 
 #makroo
 google.com, pub-9941782557387032, RESELLER, f08c47fec0942fa0
